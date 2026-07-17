@@ -1,0 +1,1001 @@
+Order_ID,Product,Category,Quantity,Price,Sales,Region,Payment_Method,Customer,Order_Date
+1001,Mouse,Accessories,1,32.25,32.25,South,Debit Card,Customer_72,2023-04-15
+1002,Power Bank,Accessories,1,55.43,55.43,North,Credit Card,Customer_48,2023-08-12
+1003,Monitor,Electronics,5,360.71,1803.55,South,Net Banking,Customer_215,2023-08-14
+1004,USB Cable,Accessories,5,9.17,45.85,North,Debit Card,Customer_217,2023-12-15
+1005,Headphones,Electronics,2,66.6,133.2,East,Credit Card,Customer_48,2024-01-25
+1006,Mouse,Accessories,3,35.42,106.26,East,Credit Card,Customer_236,2024-07-03
+1007,Mouse,Accessories,4,12.36,49.44,East,Net Banking,Customer_186,2024-08-14
+1008,Monitor,Electronics,1,166.04,166.04,South,UPI,Customer_41,2023-08-27
+1009,Mouse,Accessories,4,18.34,73.36,East,Debit Card,Customer_190,2023-12-30
+1010,Monitor,Electronics,3,395.64,1186.92,North,Net Banking,Customer_88,2024-06-30
+1011,Monitor,Electronics,2,311.79,623.58,East,Net Banking,Customer_113,2024-12-02
+1012,Smartphone,Electronics,1,506.14,506.14,North,UPI,Customer_206,2023-10-02
+1013,Mouse,Accessories,2,37.39,74.78,East,Debit Card,Customer_256,2024-02-10
+1014,USB Cable,Accessories,2,8.97,17.94,South,Net Banking,Customer_276,2023-09-27
+1015,Printer,Electronics,4,324.46,1297.84,West,UPI,Customer_113,2023-05-22
+1016,Power Bank,Accessories,4,25.45,101.8,North,Credit Card,Customer_79,2024-10-04
+1017,Keyboard,Accessories,4,67.71,270.84,West,Cash,Customer_240,2024-06-25
+1018,Headphones,Electronics,5,176.33,881.65,North,Credit Card,Customer_275,2023-10-01
+1019,Smartphone,Electronics,1,564.15,564.15,South,Cash,Customer_2,2023-09-27
+1020,Power Bank,Accessories,2,50.46,100.92,North,UPI,Customer_260,2024-09-15
+1021,Monitor,Electronics,2,280.87,561.74,South,Net Banking,Customer_272,2023-01-01
+1022,Printer,Electronics,3,222.15,666.45,North,UPI,Customer_158,2023-09-03
+1023,Laptop,Electronics,2,1420.71,2841.42,North,Credit Card,Customer_249,2023-03-12
+1024,Power Bank,Accessories,2,27.7,55.4,West,Net Banking,Customer_85,2023-09-29
+1025,Power Bank,Accessories,5,45.39,226.95,South,Net Banking,Customer_103,2024-12-31
+1026,Headphones,Electronics,4,199.18,796.72,East,Cash,Customer_265,2024-04-07
+1027,Mouse,Accessories,2,16.74,33.48,East,Credit Card,Customer_284,2023-08-24
+1028,Printer,Electronics,2,101.8,203.6,North,Debit Card,Customer_35,2023-02-02
+1029,Smartphone,Electronics,1,762.74,762.74,East,Cash,Customer_110,2024-07-06
+1030,Keyboard,Accessories,5,66.1,330.5,South,Cash,Customer_209,2023-07-14
+1031,Mouse,Accessories,1,29.77,29.77,East,Cash,Customer_211,2024-04-23
+1032,Laptop,Electronics,1,889.4,889.4,East,Credit Card,Customer_128,2023-07-16
+1033,Monitor,Electronics,5,307.01,1535.05,West,Debit Card,Customer_143,2024-04-18
+1034,Monitor,Electronics,1,305.1,305.1,North,Credit Card,Customer_277,2023-01-16
+1035,Mouse,Accessories,2,14.99,29.98,West,Cash,Customer_110,2024-02-15
+1036,Laptop,Electronics,2,1096.33,2192.66,West,UPI,Customer_233,2023-10-20
+1037,Tablet,Electronics,5,663.31,3316.55,West,Debit Card,Customer_98,2023-10-31
+1038,Monitor,Electronics,1,352.71,352.71,North,UPI,Customer_30,2023-02-21
+1039,Printer,Electronics,4,225.71,902.84,South,Credit Card,Customer_261,2023-03-24
+1040,Keyboard,Accessories,1,67.6,67.6,South,Cash,Customer_62,2024-08-06
+1041,Monitor,Electronics,5,358.08,1790.4,North,Cash,Customer_299,2024-08-01
+1042,Power Bank,Accessories,3,76.08,228.24,South,UPI,Customer_123,2023-09-29
+1043,Tablet,Electronics,2,670.18,1340.36,East,Cash,Customer_162,2023-03-16
+1044,Laptop,Electronics,4,1253.75,5015.0,North,Credit Card,Customer_276,2023-08-07
+1045,Power Bank,Accessories,3,27.95,83.85,East,Credit Card,Customer_126,2024-01-14
+1046,Headphones,Electronics,2,104.49,208.98,East,Net Banking,Customer_271,2023-01-09
+1047,Power Bank,Accessories,3,75.91,227.73,North,Debit Card,Customer_136,2023-04-29
+1048,Mouse,Accessories,5,14.66,73.3,East,Net Banking,Customer_108,2023-12-18
+1049,Monitor,Electronics,3,326.89,980.67,East,Credit Card,Customer_48,2024-10-11
+1050,Tablet,Electronics,3,230.86,692.58,East,Debit Card,Customer_135,2023-06-15
+1051,USB Cable,Accessories,5,15.59,77.95,North,Credit Card,Customer_39,2024-12-08
+1052,Keyboard,Accessories,5,22.88,114.4,East,Net Banking,Customer_283,2023-06-01
+1053,Tablet,Electronics,2,229.28,458.56,East,Credit Card,Customer_184,2023-08-04
+1054,Monitor,Electronics,1,273.79,273.79,West,Net Banking,Customer_80,2023-08-31
+1055,Keyboard,Accessories,2,90.51,181.02,North,Debit Card,Customer_171,2024-02-26
+1056,Monitor,Electronics,3,205.72,617.16,North,Cash,Customer_20,2024-04-26
+1057,Monitor,Electronics,2,435.81,871.62,West,UPI,Customer_157,2023-08-22
+1058,Monitor,Electronics,1,381.01,381.01,West,UPI,Customer_143,2023-03-13
+1059,Headphones,Electronics,3,139.05,417.15,West,Net Banking,Customer_170,2023-01-29
+1060,Mouse,Accessories,3,15.36,46.08,East,Credit Card,Customer_56,2024-09-02
+1061,Tablet,Electronics,3,709.98,2129.94,East,Cash,Customer_262,2023-04-29
+1062,Tablet,Electronics,5,333.06,1665.3,North,Cash,Customer_1,2024-06-16
+1063,Power Bank,Accessories,2,41.85,83.7,North,UPI,Customer_161,2024-11-10
+1064,Mouse,Accessories,3,25.21,75.63,West,UPI,Customer_207,2024-12-14
+1065,Headphones,Electronics,5,51.64,258.2,West,Cash,Customer_90,2024-09-22
+1066,Printer,Electronics,3,201.52,604.56,North,UPI,Customer_147,2023-08-04
+1067,Tablet,Electronics,5,624.66,3123.3,East,Cash,Customer_227,2024-03-28
+1068,Monitor,Electronics,5,315.62,1578.1,South,Credit Card,Customer_146,2024-06-11
+1069,Printer,Electronics,3,123.35,370.05,South,UPI,Customer_116,2023-07-23
+1070,Keyboard,Accessories,1,23.7,23.7,West,Net Banking,Customer_38,2024-04-11
+1071,Tablet,Electronics,5,336.1,1680.5,West,Cash,Customer_205,2023-09-07
+1072,Keyboard,Accessories,1,91.41,91.41,North,Cash,Customer_113,2023-06-30
+1073,Power Bank,Accessories,4,23.01,92.04,South,Credit Card,Customer_234,2023-05-17
+1074,USB Cable,Accessories,5,19.82,99.1,East,Cash,Customer_259,2024-03-12
+1075,Power Bank,Accessories,4,73.83,295.32,West,Cash,Customer_133,2023-09-11
+1076,Headphones,Electronics,5,112.38,561.9,South,UPI,Customer_226,2023-03-21
+1077,Headphones,Electronics,2,76.19,152.38,East,Net Banking,Customer_42,2023-05-22
+1078,Keyboard,Accessories,2,50.64,101.28,South,Debit Card,Customer_33,2024-02-29
+1079,Tablet,Electronics,3,579.83,1739.49,West,Credit Card,Customer_106,2024-03-06
+1080,Tablet,Electronics,5,862.24,4311.2,North,Net Banking,Customer_195,2024-05-03
+1081,Laptop,Electronics,3,1044.1,3132.3,West,Cash,Customer_276,2024-07-13
+1082,Printer,Electronics,2,222.06,444.12,East,Cash,Customer_249,2023-01-30
+1083,Tablet,Electronics,3,668.21,2004.63,West,Debit Card,Customer_240,2023-05-11
+1084,Printer,Electronics,5,106.74,533.7,West,Net Banking,Customer_289,2024-11-09
+1085,Laptop,Electronics,1,1267.79,1267.79,South,Cash,Customer_94,2023-02-21
+1086,Headphones,Electronics,4,85.65,342.6,West,UPI,Customer_173,2024-01-24
+1087,Headphones,Electronics,4,72.89,291.56,North,Cash,Customer_10,2024-07-06
+1088,Laptop,Electronics,3,995.74,2987.22,North,Credit Card,Customer_16,2023-09-11
+1089,Monitor,Electronics,1,367.47,367.47,South,Debit Card,Customer_243,2024-11-16
+1090,Mouse,Accessories,5,38.43,192.15,West,UPI,Customer_189,2023-06-21
+1091,Printer,Electronics,5,340.93,1704.65,North,Debit Card,Customer_160,2023-04-21
+1092,Printer,Electronics,1,332.22,332.22,West,Cash,Customer_102,2023-03-19
+1093,Printer,Electronics,2,125.48,250.96,East,Net Banking,Customer_62,2024-08-02
+1094,Laptop,Electronics,3,1196.28,3588.84,East,Credit Card,Customer_260,2024-10-25
+1095,Smartphone,Electronics,1,1064.62,1064.62,West,Credit Card,Customer_222,2024-01-06
+1096,USB Cable,Accessories,2,11.53,23.06,East,Net Banking,Customer_276,2024-05-10
+1097,USB Cable,Accessories,4,17.39,69.56,East,UPI,Customer_126,2023-03-30
+1098,Headphones,Electronics,4,71.46,285.84,West,Net Banking,Customer_195,2023-12-11
+1099,Laptop,Electronics,4,1403.12,5612.48,South,Cash,Customer_109,2023-12-30
+1100,Headphones,Electronics,3,77.54,232.62,East,Net Banking,Customer_6,2024-06-13
+1101,Monitor,Electronics,1,234.47,234.47,West,Cash,Customer_285,2023-09-04
+1102,USB Cable,Accessories,4,11.72,46.88,North,Credit Card,Customer_151,2023-08-15
+1103,Tablet,Electronics,2,414.34,828.68,East,Cash,Customer_284,2024-06-27
+1104,Smartphone,Electronics,4,1196.97,4787.88,East,UPI,Customer_233,2023-10-05
+1105,Headphones,Electronics,3,69.19,207.57,South,UPI,Customer_62,2024-07-02
+1106,Keyboard,Accessories,2,37.31,74.62,West,UPI,Customer_269,2024-09-03
+1107,Headphones,Electronics,1,171.55,171.55,East,Debit Card,Customer_185,2023-07-03
+1108,Headphones,Electronics,1,150.36,150.36,South,UPI,Customer_24,2023-02-25
+1109,Power Bank,Accessories,3,61.85,185.55,South,Cash,Customer_53,2023-01-13
+1110,Printer,Electronics,3,217.35,652.05,West,UPI,Customer_95,2023-02-22
+1111,Headphones,Electronics,4,49.39,197.56,North,Cash,Customer_252,2023-03-17
+1112,Printer,Electronics,1,137.93,137.93,East,Credit Card,Customer_128,2023-05-02
+1113,Power Bank,Accessories,4,56.38,225.52,South,Net Banking,Customer_195,2024-04-06
+1114,USB Cable,Accessories,3,17.9,53.7,West,UPI,Customer_292,2024-09-27
+1115,Laptop,Electronics,5,1474.07,7370.35,North,Debit Card,Customer_109,2023-09-28
+1116,Mouse,Accessories,2,17.2,34.4,North,Debit Card,Customer_2,2024-02-23
+1117,USB Cable,Accessories,5,12.05,60.25,North,Debit Card,Customer_148,2024-12-24
+1118,Headphones,Electronics,4,42.1,168.4,South,UPI,Customer_102,2024-03-11
+1119,Mouse,Accessories,5,16.74,83.7,South,UPI,Customer_73,2023-03-15
+1120,Laptop,Electronics,2,1365.21,2730.42,East,Cash,Customer_64,2024-04-24
+1121,Headphones,Electronics,4,190.25,761.0,West,Cash,Customer_42,2024-09-04
+1122,Laptop,Electronics,4,1327.45,5309.8,East,Credit Card,Customer_47,2023-08-23
+1123,Printer,Electronics,5,337.7,1688.5,East,Net Banking,Customer_21,2023-06-29
+1124,USB Cable,Accessories,5,14.77,73.85,East,Debit Card,Customer_300,2024-03-22
+1125,USB Cable,Accessories,1,12.05,12.05,West,UPI,Customer_165,2024-11-17
+1126,Mouse,Accessories,2,19.89,39.78,West,UPI,Customer_206,2024-07-17
+1127,Laptop,Electronics,4,907.24,3628.96,East,UPI,Customer_60,2024-02-18
+1128,Power Bank,Accessories,1,59.46,59.46,West,Cash,Customer_28,2023-07-12
+1129,Power Bank,Accessories,3,57.36,172.08,West,Cash,Customer_27,2023-07-28
+1130,Headphones,Electronics,5,52.27,261.35,East,Cash,Customer_249,2023-05-05
+1131,Laptop,Electronics,5,1369.55,6847.75,South,UPI,Customer_283,2023-01-15
+1132,Power Bank,Accessories,4,25.59,102.36,North,Cash,Customer_61,2024-10-25
+1133,Keyboard,Accessories,4,94.61,378.44,East,Net Banking,Customer_140,2024-03-01
+1134,USB Cable,Accessories,4,8.66,34.64,South,Cash,Customer_98,2024-09-05
+1135,Power Bank,Accessories,2,71.84,143.68,East,Cash,Customer_175,2024-06-03
+1136,Headphones,Electronics,1,78.08,78.08,East,Net Banking,Customer_297,2024-11-06
+1137,USB Cable,Accessories,2,11.7,23.4,West,UPI,Customer_171,2024-07-19
+1138,Power Bank,Accessories,4,47.32,189.28,East,Debit Card,Customer_123,2024-08-08
+1139,Tablet,Electronics,2,799.21,1598.42,West,Credit Card,Customer_163,2024-04-29
+1140,Tablet,Electronics,4,891.89,3567.56,South,Cash,Customer_19,2023-05-10
+1141,Power Bank,Accessories,5,39.92,199.6,North,Cash,Customer_52,2024-06-22
+1142,USB Cable,Accessories,1,15.84,15.84,West,Debit Card,Customer_39,2024-04-25
+1143,Headphones,Electronics,3,135.95,407.85,West,Credit Card,Customer_169,2024-11-21
+1144,Power Bank,Accessories,4,77.25,309.0,West,Net Banking,Customer_19,2024-09-24
+1145,Mouse,Accessories,2,28.93,57.86,East,Debit Card,Customer_47,2024-03-20
+1146,Mouse,Accessories,1,23.31,23.31,East,Credit Card,Customer_24,2023-11-29
+1147,Laptop,Electronics,3,1083.0,3249.0,West,Debit Card,Customer_126,2024-06-27
+1148,Tablet,Electronics,5,677.26,3386.3,South,Debit Card,Customer_90,2023-03-22
+1149,Printer,Electronics,4,254.93,1019.72,South,Cash,Customer_299,2023-05-27
+1150,Monitor,Electronics,4,373.27,1493.08,West,UPI,Customer_5,2024-04-21
+1151,Headphones,Electronics,5,56.86,284.3,West,UPI,Customer_154,2024-10-16
+1152,Tablet,Electronics,3,519.79,1559.37,East,Debit Card,Customer_197,2024-05-09
+1153,Mouse,Accessories,2,21.44,42.88,East,Net Banking,Customer_152,2024-12-17
+1154,Headphones,Electronics,1,196.25,196.25,West,UPI,Customer_5,2024-08-02
+1155,Laptop,Electronics,5,1334.36,6671.8,East,Debit Card,Customer_181,2023-08-13
+1156,Monitor,Electronics,5,237.72,1188.6,South,Credit Card,Customer_21,2023-11-13
+1157,USB Cable,Accessories,1,13.69,13.69,South,Credit Card,Customer_152,2023-12-01
+1158,Tablet,Electronics,2,340.56,681.12,East,Net Banking,Customer_257,2023-10-07
+1159,Keyboard,Accessories,3,93.12,279.36,West,UPI,Customer_174,2023-04-28
+1160,USB Cable,Accessories,1,7.11,7.11,South,Cash,Customer_286,2024-01-10
+1161,Mouse,Accessories,4,10.42,41.68,North,Cash,Customer_189,2024-11-19
+1162,Headphones,Electronics,5,94.77,473.85,East,Credit Card,Customer_120,2024-04-27
+1163,Laptop,Electronics,5,1424.75,7123.75,East,Net Banking,Customer_114,2024-10-25
+1164,Mouse,Accessories,4,37.28,149.12,East,Cash,Customer_60,2023-05-24
+1165,Laptop,Electronics,1,1047.84,1047.84,West,Credit Card,Customer_50,2023-08-29
+1166,Power Bank,Accessories,2,43.32,86.64,East,Net Banking,Customer_215,2024-08-24
+1167,Keyboard,Accessories,4,72.39,289.56,West,Net Banking,Customer_209,2023-10-14
+1168,Laptop,Electronics,3,991.23,2973.69,West,Debit Card,Customer_186,2023-04-12
+1169,Smartphone,Electronics,5,1111.53,5557.65,East,Credit Card,Customer_204,2023-10-10
+1170,Monitor,Electronics,1,482.15,482.15,West,Credit Card,Customer_109,2024-10-19
+1171,Printer,Electronics,1,112.64,112.64,East,Debit Card,Customer_65,2024-08-01
+1172,Monitor,Electronics,1,440.44,440.44,South,Net Banking,Customer_111,2023-08-27
+1173,Smartphone,Electronics,2,1009.78,2019.56,North,UPI,Customer_75,2023-05-14
+1174,Power Bank,Accessories,3,67.91,203.73,North,Credit Card,Customer_68,2023-01-16
+1175,Smartphone,Electronics,2,829.97,1659.94,North,Debit Card,Customer_136,2023-02-23
+1176,Keyboard,Accessories,4,62.09,248.36,North,Cash,Customer_230,2024-01-06
+1177,Power Bank,Accessories,5,26.54,132.7,South,Net Banking,Customer_23,2024-11-05
+1178,Power Bank,Accessories,3,47.48,142.44,North,Credit Card,Customer_246,2024-02-16
+1179,Tablet,Electronics,1,543.19,543.19,West,Credit Card,Customer_42,2023-11-26
+1180,Printer,Electronics,2,116.42,232.84,East,Net Banking,Customer_300,2024-07-15
+1181,Smartphone,Electronics,4,1195.16,4780.64,East,Cash,Customer_259,2024-09-11
+1182,Tablet,Electronics,1,755.17,755.17,North,Net Banking,Customer_111,2024-03-16
+1183,USB Cable,Accessories,2,11.21,22.42,West,Cash,Customer_213,2023-04-08
+1184,Smartphone,Electronics,4,581.27,2325.08,East,UPI,Customer_79,2024-12-04
+1185,USB Cable,Accessories,1,6.37,6.37,North,Credit Card,Customer_222,2023-04-09
+1186,Smartphone,Electronics,2,800.73,1601.46,East,Credit Card,Customer_211,2023-12-29
+1187,Tablet,Electronics,1,877.88,877.88,East,UPI,Customer_54,2024-08-14
+1188,Power Bank,Accessories,2,29.28,58.56,West,Debit Card,Customer_56,2023-12-25
+1189,Power Bank,Accessories,3,26.89,80.67,East,Net Banking,Customer_116,2024-03-15
+1190,Power Bank,Accessories,5,56.81,284.05,North,Net Banking,Customer_137,2023-01-30
+1191,Keyboard,Accessories,3,76.22,228.66,East,UPI,Customer_180,2023-01-07
+1192,Keyboard,Accessories,2,65.31,130.62,West,Credit Card,Customer_73,2024-10-10
+1193,Laptop,Electronics,1,1334.97,1334.97,South,Cash,Customer_215,2024-04-09
+1194,Smartphone,Electronics,2,633.05,1266.1,East,Net Banking,Customer_44,2023-02-23
+1195,Keyboard,Accessories,2,80.35,160.7,North,Credit Card,Customer_140,2024-03-29
+1196,Tablet,Electronics,4,624.95,2499.8,West,UPI,Customer_111,2024-06-08
+1197,Mouse,Accessories,3,22.9,68.7,East,Net Banking,Customer_250,2024-06-23
+1198,Headphones,Electronics,1,67.49,67.49,North,Credit Card,Customer_105,2023-11-05
+1199,Monitor,Electronics,2,417.46,834.92,East,UPI,Customer_62,2023-01-08
+1200,USB Cable,Accessories,4,7.64,30.56,West,Net Banking,Customer_118,2024-05-27
+1201,Power Bank,Accessories,3,24.32,72.96,North,Cash,Customer_10,2024-04-15
+1202,Mouse,Accessories,3,27.27,81.81,West,Cash,Customer_149,2023-04-28
+1203,Tablet,Electronics,1,876.34,876.34,South,Net Banking,Customer_236,2024-12-07
+1204,Smartphone,Electronics,1,693.04,693.04,North,Debit Card,Customer_224,2024-08-26
+1205,Tablet,Electronics,5,255.05,1275.25,East,UPI,Customer_114,2023-12-08
+1206,Keyboard,Accessories,1,60.84,60.84,North,Net Banking,Customer_262,2023-07-18
+1207,Smartphone,Electronics,3,954.64,2863.92,South,Debit Card,Customer_53,2023-05-30
+1208,Headphones,Electronics,2,59.49,118.98,South,Credit Card,Customer_91,2024-10-05
+1209,USB Cable,Accessories,4,16.32,65.28,West,Net Banking,Customer_166,2024-10-04
+1210,Smartphone,Electronics,2,695.79,1391.58,West,Cash,Customer_156,2023-10-09
+1211,Printer,Electronics,1,187.99,187.99,North,UPI,Customer_237,2024-04-07
+1212,Laptop,Electronics,1,1089.68,1089.68,East,Credit Card,Customer_47,2024-09-21
+1213,Printer,Electronics,5,196.12,980.6,North,Cash,Customer_293,2024-10-29
+1214,Monitor,Electronics,3,361.75,1085.25,South,Credit Card,Customer_231,2023-04-16
+1215,Smartphone,Electronics,1,754.09,754.09,South,Credit Card,Customer_127,2024-12-25
+1216,USB Cable,Accessories,4,12.86,51.44,South,UPI,Customer_191,2023-10-17
+1217,Tablet,Electronics,4,742.13,2968.52,North,UPI,Customer_34,2023-12-04
+1218,Mouse,Accessories,5,30.35,151.75,East,UPI,Customer_77,2023-12-08
+1219,Mouse,Accessories,5,29.91,149.55,East,UPI,Customer_201,2023-05-13
+1220,Printer,Electronics,1,177.4,177.4,West,UPI,Customer_66,2024-11-17
+1221,Power Bank,Accessories,1,58.76,58.76,West,Net Banking,Customer_186,2023-01-19
+1222,Smartphone,Electronics,3,462.24,1386.72,South,UPI,Customer_249,2023-07-16
+1223,Monitor,Electronics,2,204.23,408.46,East,Credit Card,Customer_260,2024-07-06
+1224,Power Bank,Accessories,1,59.72,59.72,South,Net Banking,Customer_193,2023-06-07
+1225,Keyboard,Accessories,2,86.51,173.02,South,Cash,Customer_23,2024-02-25
+1226,Smartphone,Electronics,2,1172.63,2345.26,East,Cash,Customer_120,2024-06-30
+1227,Monitor,Electronics,3,487.96,1463.88,West,Debit Card,Customer_189,2024-11-25
+1228,Printer,Electronics,4,215.42,861.68,East,Cash,Customer_258,2024-06-24
+1229,Tablet,Electronics,2,771.82,1543.64,South,UPI,Customer_27,2024-10-18
+1230,USB Cable,Accessories,3,13.32,39.96,North,Net Banking,Customer_64,2023-10-19
+1231,Mouse,Accessories,2,18.18,36.36,South,Cash,Customer_47,2023-08-16
+1232,USB Cable,Accessories,3,18.96,56.88,West,Credit Card,Customer_203,2024-05-29
+1233,Smartphone,Electronics,2,647.55,1295.1,North,UPI,Customer_115,2023-01-29
+1234,Smartphone,Electronics,1,1055.26,1055.26,East,Debit Card,Customer_71,2023-02-09
+1235,Headphones,Electronics,4,148.33,593.32,South,Cash,Customer_230,2024-09-22
+1236,Laptop,Electronics,1,862.35,862.35,South,Debit Card,Customer_281,2024-09-15
+1237,Power Bank,Accessories,4,26.67,106.68,East,Debit Card,Customer_155,2023-05-05
+1238,Laptop,Electronics,2,1122.89,2245.78,West,Credit Card,Customer_57,2024-05-26
+1239,Printer,Electronics,5,104.11,520.55,South,Debit Card,Customer_150,2024-03-15
+1240,Laptop,Electronics,5,1079.33,5396.65,West,Debit Card,Customer_44,2024-06-20
+1241,Smartphone,Electronics,1,1158.06,1158.06,North,Cash,Customer_241,2023-02-14
+1242,Tablet,Electronics,3,377.56,1132.68,North,UPI,Customer_35,2023-12-20
+1243,Monitor,Electronics,1,420.03,420.03,East,Debit Card,Customer_23,2023-12-27
+1244,Power Bank,Accessories,3,68.81,206.43,South,Cash,Customer_246,2024-10-08
+1245,Keyboard,Accessories,2,25.05,50.1,West,Credit Card,Customer_151,2023-07-26
+1246,Laptop,Electronics,2,1425.76,2851.52,East,UPI,Customer_264,2024-02-12
+1247,Power Bank,Accessories,4,35.2,140.8,South,UPI,Customer_183,2023-02-18
+1248,Smartphone,Electronics,3,412.03,1236.09,East,Cash,Customer_205,2024-03-26
+1249,Tablet,Electronics,3,881.61,2644.83,West,Cash,Customer_189,2024-06-15
+1250,Headphones,Electronics,1,153.6,153.6,North,Cash,Customer_93,2024-07-12
+1251,Headphones,Electronics,3,47.44,142.32,East,UPI,Customer_157,2024-04-01
+1252,Printer,Electronics,4,141.66,566.64,West,UPI,Customer_229,2023-02-13
+1253,Smartphone,Electronics,5,1198.34,5991.7,East,Credit Card,Customer_39,2024-11-18
+1254,Tablet,Electronics,3,559.16,1677.48,South,Credit Card,Customer_74,2024-09-14
+1255,USB Cable,Accessories,1,6.89,6.89,South,UPI,Customer_186,2024-01-28
+1256,Printer,Electronics,1,251.27,251.27,West,UPI,Customer_191,2024-03-30
+1257,Mouse,Accessories,5,14.13,70.65,East,Cash,Customer_161,2024-10-27
+1258,Headphones,Electronics,2,193.29,386.58,North,Debit Card,Customer_256,2024-06-14
+1259,Tablet,Electronics,5,282.43,1412.15,East,Cash,Customer_110,2024-09-18
+1260,Headphones,Electronics,4,64.03,256.12,South,Credit Card,Customer_232,2023-06-26
+1261,USB Cable,Accessories,1,17.16,17.16,East,UPI,Customer_34,2024-07-17
+1262,Power Bank,Accessories,3,73.48,220.44,South,Debit Card,Customer_186,2024-06-04
+1263,Monitor,Electronics,1,494.8,494.8,South,Debit Card,Customer_253,2023-01-27
+1264,Smartphone,Electronics,5,815.05,4075.25,West,Net Banking,Customer_67,2024-09-18
+1265,Mouse,Accessories,1,19.28,19.28,West,Net Banking,Customer_211,2024-02-24
+1266,Printer,Electronics,1,131.33,131.33,East,Credit Card,Customer_231,2024-04-22
+1267,Power Bank,Accessories,3,27.7,83.1,South,Debit Card,Customer_222,2024-05-29
+1268,Laptop,Electronics,1,1186.77,1186.77,East,Debit Card,Customer_83,2023-11-27
+1269,Monitor,Electronics,3,481.62,1444.86,East,Credit Card,Customer_129,2023-07-21
+1270,Power Bank,Accessories,3,27.51,82.53,East,Net Banking,Customer_274,2023-04-06
+1271,Power Bank,Accessories,2,55.51,111.02,South,Debit Card,Customer_173,2024-07-31
+1272,Laptop,Electronics,1,902.79,902.79,East,Debit Card,Customer_293,2024-03-02
+1273,Printer,Electronics,1,224.51,224.51,East,UPI,Customer_248,2023-09-08
+1274,Tablet,Electronics,3,517.48,1552.44,North,Debit Card,Customer_226,2024-03-01
+1275,USB Cable,Accessories,4,8.06,32.24,South,UPI,Customer_164,2023-12-20
+1276,Tablet,Electronics,2,732.47,1464.94,North,UPI,Customer_124,2024-04-22
+1277,Mouse,Accessories,3,23.49,70.47,South,Credit Card,Customer_26,2023-10-25
+1278,Tablet,Electronics,5,492.69,2463.45,South,UPI,Customer_296,2023-11-17
+1279,Monitor,Electronics,2,324.39,648.78,West,Cash,Customer_158,2024-05-24
+1280,Laptop,Electronics,1,1464.4,1464.4,West,Debit Card,Customer_111,2024-08-20
+1281,Smartphone,Electronics,1,345.49,345.49,West,Net Banking,Customer_241,2023-10-20
+1282,Power Bank,Accessories,1,70.83,70.83,West,Debit Card,Customer_136,2024-01-10
+1283,Tablet,Electronics,3,231.67,695.01,North,Net Banking,Customer_288,2023-07-19
+1284,Smartphone,Electronics,5,559.74,2798.7,West,Net Banking,Customer_231,2024-07-17
+1285,Headphones,Electronics,5,145.67,728.35,North,Debit Card,Customer_50,2024-02-08
+1286,Smartphone,Electronics,3,802.05,2406.15,East,Debit Card,Customer_102,2024-09-08
+1287,Power Bank,Accessories,4,50.0,200.0,North,Credit Card,Customer_71,2024-12-31
+1288,Smartphone,Electronics,4,767.4,3069.6,South,Net Banking,Customer_264,2023-05-24
+1289,Smartphone,Electronics,5,586.68,2933.4,West,Net Banking,Customer_154,2024-08-30
+1290,Smartphone,Electronics,5,1045.46,5227.3,West,Net Banking,Customer_154,2024-05-01
+1291,Laptop,Electronics,3,1065.31,3195.93,North,Cash,Customer_299,2023-11-12
+1292,Laptop,Electronics,5,1158.48,5792.4,South,Credit Card,Customer_299,2024-05-06
+1293,Keyboard,Accessories,5,70.32,351.6,West,Debit Card,Customer_125,2023-02-02
+1294,Printer,Electronics,1,147.7,147.7,West,UPI,Customer_215,2023-06-05
+1295,Tablet,Electronics,2,487.26,974.52,West,Credit Card,Customer_71,2024-06-15
+1296,Monitor,Electronics,5,263.77,1318.85,West,Net Banking,Customer_193,2023-11-18
+1297,Keyboard,Accessories,4,92.97,371.88,East,Net Banking,Customer_182,2024-11-23
+1298,Headphones,Electronics,5,112.31,561.55,South,UPI,Customer_286,2023-11-02
+1299,Monitor,Electronics,3,419.91,1259.73,South,Cash,Customer_163,2024-05-06
+1300,Smartphone,Electronics,5,1140.33,5701.65,East,UPI,Customer_63,2024-08-10
+1301,Power Bank,Accessories,4,73.75,295.0,West,UPI,Customer_75,2023-10-25
+1302,Laptop,Electronics,3,1470.95,4412.85,North,UPI,Customer_227,2024-11-02
+1303,Headphones,Electronics,4,66.38,265.52,East,Net Banking,Customer_140,2023-05-21
+1304,Mouse,Accessories,5,32.23,161.15,South,Debit Card,Customer_26,2024-11-16
+1305,Power Bank,Accessories,2,58.28,116.56,North,Credit Card,Customer_212,2023-12-05
+1306,USB Cable,Accessories,1,15.22,15.22,South,Credit Card,Customer_282,2023-06-11
+1307,Tablet,Electronics,4,534.21,2136.84,South,UPI,Customer_165,2023-10-20
+1308,Laptop,Electronics,1,1273.99,1273.99,South,Net Banking,Customer_20,2023-06-29
+1309,Tablet,Electronics,2,853.75,1707.5,North,Cash,Customer_254,2023-07-10
+1310,Headphones,Electronics,1,31.58,31.58,North,UPI,Customer_146,2024-04-10
+1311,Power Bank,Accessories,5,49.63,248.15,South,Net Banking,Customer_240,2023-10-07
+1312,Monitor,Electronics,1,265.74,265.74,West,UPI,Customer_96,2023-01-15
+1313,Smartphone,Electronics,3,811.0,2433.0,South,Debit Card,Customer_208,2024-03-13
+1314,Power Bank,Accessories,3,25.2,75.6,North,Debit Card,Customer_72,2024-05-03
+1315,Smartphone,Electronics,2,306.15,612.3,West,Debit Card,Customer_229,2023-10-01
+1316,Smartphone,Electronics,3,824.21,2472.63,North,UPI,Customer_185,2024-12-10
+1317,Monitor,Electronics,1,383.73,383.73,West,UPI,Customer_82,2024-02-20
+1318,Power Bank,Accessories,3,61.42,184.26,East,UPI,Customer_114,2023-08-13
+1319,Keyboard,Accessories,4,32.25,129.0,East,Cash,Customer_282,2024-04-27
+1320,Power Bank,Accessories,2,65.71,131.42,North,Net Banking,Customer_229,2024-06-24
+1321,Smartphone,Electronics,1,1125.52,1125.52,North,Credit Card,Customer_281,2024-06-01
+1322,Monitor,Electronics,5,337.83,1689.15,South,UPI,Customer_267,2024-03-28
+1323,Mouse,Accessories,2,31.51,63.02,West,Credit Card,Customer_262,2024-04-01
+1324,Laptop,Electronics,4,935.76,3743.04,West,Cash,Customer_289,2023-03-01
+1325,Power Bank,Accessories,4,60.37,241.48,East,Credit Card,Customer_203,2023-09-18
+1326,Laptop,Electronics,2,1225.9,2451.8,North,Cash,Customer_177,2024-12-18
+1327,Mouse,Accessories,5,39.82,199.1,North,Cash,Customer_17,2023-10-21
+1328,Tablet,Electronics,2,738.28,1476.56,West,UPI,Customer_196,2024-04-04
+1329,Tablet,Electronics,4,256.17,1024.68,South,UPI,Customer_61,2023-07-02
+1330,Power Bank,Accessories,4,51.73,206.92,South,Credit Card,Customer_12,2023-11-02
+1331,USB Cable,Accessories,5,11.36,56.8,West,Debit Card,Customer_127,2024-04-16
+1332,Smartphone,Electronics,2,548.08,1096.16,North,Credit Card,Customer_215,2024-09-21
+1333,Laptop,Electronics,2,983.95,1967.9,North,Net Banking,Customer_18,2024-04-02
+1334,Printer,Electronics,1,161.18,161.18,North,Cash,Customer_225,2023-08-28
+1335,Power Bank,Accessories,2,65.26,130.52,North,Debit Card,Customer_258,2023-10-24
+1336,Monitor,Electronics,5,261.62,1308.1,East,Debit Card,Customer_155,2023-05-27
+1337,Power Bank,Accessories,2,44.81,89.62,East,Credit Card,Customer_286,2024-08-28
+1338,Keyboard,Accessories,4,64.47,257.88,North,UPI,Customer_196,2024-06-21
+1339,Smartphone,Electronics,4,667.43,2669.72,East,Cash,Customer_95,2024-07-04
+1340,USB Cable,Accessories,2,17.74,35.48,East,Debit Card,Customer_238,2023-03-01
+1341,Power Bank,Accessories,4,78.07,312.28,South,Cash,Customer_125,2023-09-19
+1342,Monitor,Electronics,3,376.35,1129.05,West,UPI,Customer_48,2024-07-02
+1343,Monitor,Electronics,1,243.96,243.96,North,Credit Card,Customer_97,2024-08-24
+1344,Power Bank,Accessories,2,48.76,97.52,East,UPI,Customer_8,2023-08-05
+1345,Monitor,Electronics,1,411.41,411.41,West,Debit Card,Customer_105,2024-02-11
+1346,Monitor,Electronics,5,262.57,1312.85,East,Cash,Customer_239,2024-06-30
+1347,Smartphone,Electronics,3,535.41,1606.23,West,Cash,Customer_51,2024-04-25
+1348,Smartphone,Electronics,2,633.63,1267.26,West,Credit Card,Customer_289,2023-08-15
+1349,Keyboard,Accessories,1,40.86,40.86,West,UPI,Customer_79,2023-07-20
+1350,Smartphone,Electronics,2,641.86,1283.72,South,Cash,Customer_282,2024-11-01
+1351,Smartphone,Electronics,3,987.02,2961.06,West,Cash,Customer_236,2023-06-22
+1352,Smartphone,Electronics,2,425.96,851.92,West,Debit Card,Customer_278,2024-10-19
+1353,Laptop,Electronics,5,871.99,4359.95,North,Credit Card,Customer_4,2024-02-27
+1354,Keyboard,Accessories,2,25.44,50.88,South,Credit Card,Customer_112,2024-06-01
+1355,USB Cable,Accessories,3,5.91,17.73,West,Cash,Customer_9,2023-01-07
+1356,Power Bank,Accessories,5,44.68,223.4,North,Net Banking,Customer_141,2024-07-02
+1357,Headphones,Electronics,1,115.38,115.38,West,Debit Card,Customer_55,2023-04-09
+1358,Power Bank,Accessories,2,34.46,68.92,East,UPI,Customer_137,2024-02-11
+1359,Mouse,Accessories,3,38.78,116.34,West,Net Banking,Customer_125,2024-12-14
+1360,Monitor,Electronics,3,389.41,1168.23,North,Credit Card,Customer_48,2024-02-20
+1361,Tablet,Electronics,4,586.89,2347.56,North,Credit Card,Customer_88,2023-03-26
+1362,USB Cable,Accessories,4,14.67,58.68,East,Net Banking,Customer_49,2024-06-24
+1363,Laptop,Electronics,2,987.42,1974.84,West,UPI,Customer_24,2023-03-18
+1364,Headphones,Electronics,5,125.8,629.0,North,Debit Card,Customer_162,2023-01-17
+1365,Monitor,Electronics,5,200.47,1002.35,West,Credit Card,Customer_154,2023-06-16
+1366,Printer,Electronics,2,241.67,483.34,West,Net Banking,Customer_170,2024-01-29
+1367,Keyboard,Accessories,1,60.06,60.06,East,Credit Card,Customer_51,2024-03-23
+1368,Monitor,Electronics,1,269.21,269.21,West,UPI,Customer_16,2024-10-11
+1369,Headphones,Electronics,4,113.4,453.6,East,Net Banking,Customer_193,2024-03-18
+1370,Keyboard,Accessories,5,72.85,364.25,North,Net Banking,Customer_152,2023-09-10
+1371,Mouse,Accessories,1,18.04,18.04,West,Debit Card,Customer_200,2023-11-21
+1372,Smartphone,Electronics,1,382.37,382.37,East,Cash,Customer_185,2023-10-04
+1373,Mouse,Accessories,2,12.62,25.24,West,Cash,Customer_286,2024-07-22
+1374,Power Bank,Accessories,4,26.2,104.8,North,UPI,Customer_284,2023-04-06
+1375,Printer,Electronics,5,296.11,1480.55,West,Credit Card,Customer_150,2024-02-28
+1376,Tablet,Electronics,1,707.39,707.39,South,Net Banking,Customer_267,2023-06-23
+1377,Tablet,Electronics,2,297.19,594.38,East,UPI,Customer_253,2023-05-30
+1378,Mouse,Accessories,2,23.04,46.08,West,UPI,Customer_248,2023-03-20
+1379,Smartphone,Electronics,3,1149.8,3449.4,West,Net Banking,Customer_101,2024-04-13
+1380,Mouse,Accessories,2,19.14,38.28,West,UPI,Customer_195,2023-12-04
+1381,USB Cable,Accessories,3,11.46,34.38,South,UPI,Customer_165,2024-09-09
+1382,Monitor,Electronics,4,259.96,1039.84,West,UPI,Customer_150,2024-12-12
+1383,USB Cable,Accessories,5,16.73,83.65,East,Cash,Customer_144,2024-02-07
+1384,Smartphone,Electronics,1,1138.86,1138.86,South,Net Banking,Customer_280,2023-07-04
+1385,Power Bank,Accessories,1,77.18,77.18,West,Debit Card,Customer_225,2023-10-26
+1386,Mouse,Accessories,4,30.19,120.76,South,UPI,Customer_124,2023-09-16
+1387,Keyboard,Accessories,4,83.13,332.52,North,Cash,Customer_246,2024-08-19
+1388,Tablet,Electronics,5,554.63,2773.15,West,Net Banking,Customer_19,2024-01-04
+1389,Power Bank,Accessories,5,58.29,291.45,North,Credit Card,Customer_128,2024-11-04
+1390,Smartphone,Electronics,2,882.3,1764.6,North,Net Banking,Customer_205,2023-12-06
+1391,Tablet,Electronics,1,207.38,207.38,East,Debit Card,Customer_262,2024-06-15
+1392,Power Bank,Accessories,5,61.26,306.3,South,Cash,Customer_192,2024-02-05
+1393,USB Cable,Accessories,5,15.36,76.8,South,UPI,Customer_13,2024-05-09
+1394,Mouse,Accessories,3,22.48,67.44,North,Credit Card,Customer_73,2023-12-23
+1395,Headphones,Electronics,3,107.41,322.23,South,Net Banking,Customer_248,2023-12-23
+1396,USB Cable,Accessories,1,11.57,11.57,West,UPI,Customer_35,2023-11-04
+1397,Laptop,Electronics,1,864.68,864.68,East,Credit Card,Customer_85,2023-09-07
+1398,Power Bank,Accessories,2,53.11,106.22,East,Net Banking,Customer_219,2024-04-18
+1399,Monitor,Electronics,4,370.42,1481.68,South,Cash,Customer_203,2023-01-30
+1400,Printer,Electronics,2,212.39,424.78,West,Cash,Customer_3,2024-12-22
+1401,Monitor,Electronics,2,247.42,494.84,North,Net Banking,Customer_53,2024-07-03
+1402,Keyboard,Accessories,3,46.08,138.24,West,Credit Card,Customer_135,2024-11-17
+1403,USB Cable,Accessories,5,19.49,97.45,East,Net Banking,Customer_199,2024-09-17
+1404,Tablet,Electronics,5,279.96,1399.8,East,Cash,Customer_89,2024-11-20
+1405,Headphones,Electronics,5,130.33,651.65,South,UPI,Customer_61,2023-09-02
+1406,Headphones,Electronics,1,61.12,61.12,South,Net Banking,Customer_199,2024-03-04
+1407,Printer,Electronics,2,243.7,487.4,West,Debit Card,Customer_250,2024-10-12
+1408,Power Bank,Accessories,2,53.29,106.58,West,UPI,Customer_72,2023-07-11
+1409,Smartphone,Electronics,4,857.47,3429.88,East,Credit Card,Customer_249,2023-05-20
+1410,Monitor,Electronics,4,487.34,1949.36,West,Cash,Customer_252,2024-03-01
+1411,USB Cable,Accessories,4,7.51,30.04,North,Debit Card,Customer_150,2023-02-03
+1412,Headphones,Electronics,2,121.39,242.78,South,Cash,Customer_290,2024-05-22
+1413,Power Bank,Accessories,5,26.79,133.95,North,UPI,Customer_279,2024-01-11
+1414,Power Bank,Accessories,1,65.6,65.6,West,Net Banking,Customer_112,2024-03-11
+1415,Mouse,Accessories,2,18.93,37.86,North,Cash,Customer_135,2023-12-23
+1416,Mouse,Accessories,4,35.96,143.84,North,Debit Card,Customer_108,2024-08-25
+1417,Smartphone,Electronics,5,869.49,4347.45,South,Net Banking,Customer_72,2023-07-31
+1418,Monitor,Electronics,1,349.53,349.53,East,Net Banking,Customer_276,2023-06-22
+1419,Smartphone,Electronics,3,560.4,1681.2,East,Net Banking,Customer_49,2023-05-19
+1420,Tablet,Electronics,1,894.74,894.74,South,Debit Card,Customer_128,2023-05-30
+1421,Smartphone,Electronics,2,985.33,1970.66,West,Cash,Customer_73,2024-08-14
+1422,Headphones,Electronics,4,93.78,375.12,North,Credit Card,Customer_207,2024-06-11
+1423,Headphones,Electronics,3,107.3,321.9,West,UPI,Customer_298,2023-01-03
+1424,Mouse,Accessories,4,29.05,116.2,East,Credit Card,Customer_274,2024-02-12
+1425,Monitor,Electronics,4,438.7,1754.8,West,UPI,Customer_166,2023-10-18
+1426,Smartphone,Electronics,5,820.14,4100.7,West,UPI,Customer_25,2023-02-17
+1427,Mouse,Accessories,4,10.49,41.96,South,Cash,Customer_234,2023-01-01
+1428,Tablet,Electronics,2,896.99,1793.98,South,UPI,Customer_82,2023-10-08
+1429,Mouse,Accessories,3,17.51,52.53,East,Debit Card,Customer_27,2024-02-10
+1430,Headphones,Electronics,2,102.97,205.94,North,Credit Card,Customer_1,2023-08-07
+1431,USB Cable,Accessories,1,6.99,6.99,South,Net Banking,Customer_228,2023-01-10
+1432,Laptop,Electronics,3,1381.12,4143.36,West,Debit Card,Customer_245,2023-03-14
+1433,Monitor,Electronics,4,181.27,725.08,North,Credit Card,Customer_161,2024-01-12
+1434,Headphones,Electronics,2,95.06,190.12,South,Debit Card,Customer_36,2024-06-27
+1435,Printer,Electronics,1,252.58,252.58,South,Cash,Customer_180,2023-08-07
+1436,Keyboard,Accessories,4,69.29,277.16,West,Debit Card,Customer_45,2023-04-13
+1437,Keyboard,Accessories,1,67.17,67.17,West,UPI,Customer_220,2023-11-19
+1438,Keyboard,Accessories,2,42.16,84.32,North,Debit Card,Customer_284,2024-09-07
+1439,Printer,Electronics,5,171.23,856.15,North,UPI,Customer_106,2024-06-14
+1440,Printer,Electronics,5,147.16,735.8,West,UPI,Customer_28,2023-09-03
+1441,USB Cable,Accessories,4,6.69,26.76,West,Net Banking,Customer_37,2024-06-24
+1442,Laptop,Electronics,3,1457.05,4371.15,South,Cash,Customer_292,2024-03-06
+1443,Smartphone,Electronics,5,914.65,4573.25,West,Credit Card,Customer_9,2024-08-24
+1444,Mouse,Accessories,1,17.87,17.87,North,Credit Card,Customer_204,2024-06-02
+1445,Headphones,Electronics,5,160.41,802.05,West,Cash,Customer_43,2024-10-17
+1446,Power Bank,Accessories,5,56.96,284.8,East,Credit Card,Customer_159,2023-03-22
+1447,Power Bank,Accessories,2,78.46,156.92,South,Net Banking,Customer_168,2024-02-05
+1448,Printer,Electronics,1,177.54,177.54,West,Debit Card,Customer_30,2023-09-08
+1449,Mouse,Accessories,4,13.48,53.92,North,UPI,Customer_90,2023-05-03
+1450,Laptop,Electronics,2,1305.97,2611.94,South,Cash,Customer_178,2024-06-19
+1451,Power Bank,Accessories,3,30.02,90.06,South,UPI,Customer_61,2023-01-31
+1452,Smartphone,Electronics,4,544.78,2179.12,North,UPI,Customer_296,2024-10-04
+1453,Mouse,Accessories,4,23.66,94.64,East,Credit Card,Customer_256,2024-08-03
+1454,Keyboard,Accessories,3,32.58,97.74,North,Net Banking,Customer_60,2023-08-22
+1455,Power Bank,Accessories,1,22.64,22.64,North,Debit Card,Customer_24,2024-04-28
+1456,Smartphone,Electronics,4,1128.2,4512.8,South,Credit Card,Customer_284,2024-11-02
+1457,Tablet,Electronics,2,425.26,850.52,West,UPI,Customer_139,2023-03-21
+1458,Printer,Electronics,3,129.85,389.55,North,Debit Card,Customer_115,2024-06-12
+1459,Laptop,Electronics,4,894.8,3579.2,West,UPI,Customer_160,2023-12-02
+1460,Mouse,Accessories,5,23.7,118.5,East,Debit Card,Customer_150,2024-07-31
+1461,Headphones,Electronics,5,71.24,356.2,East,Net Banking,Customer_253,2023-07-20
+1462,Power Bank,Accessories,2,29.03,58.06,West,Credit Card,Customer_120,2024-07-08
+1463,Smartphone,Electronics,1,1155.89,1155.89,North,Cash,Customer_158,2023-04-17
+1464,Monitor,Electronics,5,494.09,2470.45,West,Cash,Customer_31,2023-05-26
+1465,Headphones,Electronics,1,37.46,37.46,South,Net Banking,Customer_212,2024-12-18
+1466,Smartphone,Electronics,4,1177.1,4708.4,North,Net Banking,Customer_49,2024-06-01
+1467,Keyboard,Accessories,4,25.99,103.96,North,Cash,Customer_67,2023-08-31
+1468,Headphones,Electronics,3,174.66,523.98,West,UPI,Customer_163,2024-04-08
+1469,Headphones,Electronics,2,42.7,85.4,South,Debit Card,Customer_300,2023-04-22
+1470,Keyboard,Accessories,1,33.15,33.15,West,UPI,Customer_209,2023-05-04
+1471,Power Bank,Accessories,3,77.88,233.64,South,Cash,Customer_158,2024-04-19
+1472,Headphones,Electronics,1,45.37,45.37,East,Net Banking,Customer_21,2023-08-09
+1473,Smartphone,Electronics,2,382.09,764.18,South,UPI,Customer_203,2024-06-09
+1474,Laptop,Electronics,3,1019.11,3057.33,South,Credit Card,Customer_208,2024-04-08
+1475,Power Bank,Accessories,5,34.99,174.95,West,Credit Card,Customer_72,2023-05-05
+1476,Laptop,Electronics,1,1389.74,1389.74,South,Debit Card,Customer_102,2024-02-15
+1477,Smartphone,Electronics,1,824.09,824.09,East,Credit Card,Customer_12,2023-03-08
+1478,Monitor,Electronics,4,433.25,1733.0,North,UPI,Customer_63,2023-02-13
+1479,USB Cable,Accessories,1,7.52,7.52,West,Cash,Customer_255,2023-01-31
+1480,Tablet,Electronics,4,320.97,1283.88,South,Debit Card,Customer_141,2023-10-14
+1481,USB Cable,Accessories,2,5.52,11.04,South,UPI,Customer_256,2024-02-26
+1482,Power Bank,Accessories,4,23.66,94.64,East,Cash,Customer_71,2024-03-05
+1483,Monitor,Electronics,5,237.2,1186.0,North,Cash,Customer_184,2024-05-06
+1484,Power Bank,Accessories,4,40.64,162.56,East,Cash,Customer_139,2023-07-04
+1485,Laptop,Electronics,3,1238.13,3714.39,North,UPI,Customer_30,2024-04-28
+1486,Power Bank,Accessories,3,66.01,198.03,South,Debit Card,Customer_52,2023-09-11
+1487,Monitor,Electronics,3,336.79,1010.37,North,Debit Card,Customer_295,2024-02-02
+1488,Smartphone,Electronics,2,458.49,916.98,East,UPI,Customer_15,2024-12-21
+1489,Smartphone,Electronics,5,807.25,4036.25,South,Cash,Customer_278,2023-11-13
+1490,Keyboard,Accessories,4,23.04,92.16,North,Debit Card,Customer_113,2023-01-21
+1491,Power Bank,Accessories,4,20.04,80.16,South,Debit Card,Customer_175,2023-07-01
+1492,Smartphone,Electronics,1,319.72,319.72,South,Credit Card,Customer_270,2024-01-09
+1493,Mouse,Accessories,3,31.14,93.42,West,Net Banking,Customer_52,2023-12-11
+1494,Headphones,Electronics,3,53.2,159.6,South,Cash,Customer_250,2024-10-26
+1495,Smartphone,Electronics,2,936.46,1872.92,East,Debit Card,Customer_90,2024-01-23
+1496,Headphones,Electronics,3,51.65,154.95,North,Net Banking,Customer_201,2024-08-04
+1497,Laptop,Electronics,2,1241.55,2483.1,South,Net Banking,Customer_54,2024-05-23
+1498,Keyboard,Accessories,3,79.63,238.89,South,UPI,Customer_164,2023-06-21
+1499,Mouse,Accessories,3,23.4,70.2,East,Debit Card,Customer_128,2024-12-10
+1500,Mouse,Accessories,3,17.7,53.1,North,Credit Card,Customer_25,2024-01-31
+1501,USB Cable,Accessories,4,19.54,78.16,West,Cash,Customer_194,2023-12-26
+1502,Power Bank,Accessories,4,26.09,104.36,West,Net Banking,Customer_116,2023-06-16
+1503,USB Cable,Accessories,1,16.99,16.99,North,UPI,Customer_11,2023-11-23
+1504,Headphones,Electronics,1,42.61,42.61,South,Cash,Customer_83,2023-03-18
+1505,Power Bank,Accessories,1,40.28,40.28,West,Credit Card,Customer_221,2024-10-31
+1506,Keyboard,Accessories,5,91.18,455.9,South,Credit Card,Customer_52,2023-12-06
+1507,Monitor,Electronics,2,293.25,586.5,East,UPI,Customer_153,2023-09-01
+1508,Mouse,Accessories,1,21.79,21.79,West,Debit Card,Customer_28,2024-01-05
+1509,Laptop,Electronics,4,906.96,3627.84,West,Debit Card,Customer_50,2023-01-27
+1510,Monitor,Electronics,2,373.37,746.74,North,Cash,Customer_60,2023-11-12
+1511,Tablet,Electronics,4,542.37,2169.48,East,Credit Card,Customer_279,2024-02-01
+1512,Keyboard,Accessories,3,90.84,272.52,East,Debit Card,Customer_229,2023-02-15
+1513,Headphones,Electronics,4,109.06,436.24,South,UPI,Customer_289,2023-03-05
+1514,Keyboard,Accessories,1,26.86,26.86,East,Net Banking,Customer_212,2024-08-26
+1515,Monitor,Electronics,5,171.34,856.7,West,Net Banking,Customer_215,2024-07-02
+1516,USB Cable,Accessories,5,18.22,91.1,West,UPI,Customer_41,2024-02-09
+1517,Laptop,Electronics,5,1221.29,6106.45,South,Credit Card,Customer_230,2023-06-27
+1518,Keyboard,Accessories,2,84.68,169.36,South,Credit Card,Customer_217,2023-03-22
+1519,Tablet,Electronics,2,898.09,1796.18,South,Net Banking,Customer_133,2023-11-24
+1520,Mouse,Accessories,1,21.64,21.64,West,Net Banking,Customer_167,2023-10-10
+1521,Power Bank,Accessories,4,75.03,300.12,North,Net Banking,Customer_268,2024-03-05
+1522,Mouse,Accessories,4,14.49,57.96,North,Credit Card,Customer_289,2023-04-14
+1523,Headphones,Electronics,5,179.62,898.1,West,UPI,Customer_197,2024-11-01
+1524,USB Cable,Accessories,5,14.13,70.65,North,Debit Card,Customer_142,2024-02-17
+1525,Keyboard,Accessories,5,68.69,343.45,West,Credit Card,Customer_203,2023-12-06
+1526,Monitor,Electronics,1,411.01,411.01,East,UPI,Customer_11,2023-12-12
+1527,Headphones,Electronics,3,77.66,232.98,West,Credit Card,Customer_117,2023-05-18
+1528,Headphones,Electronics,4,161.59,646.36,East,UPI,Customer_214,2024-09-11
+1529,Mouse,Accessories,2,23.25,46.5,West,Cash,Customer_265,2024-01-18
+1530,Laptop,Electronics,5,1364.47,6822.35,North,UPI,Customer_260,2024-02-18
+1531,Keyboard,Accessories,5,90.35,451.75,North,Debit Card,Customer_99,2023-07-25
+1532,Laptop,Electronics,2,871.5,1743.0,North,UPI,Customer_102,2023-10-08
+1533,Smartphone,Electronics,4,754.61,3018.44,North,Credit Card,Customer_124,2024-01-17
+1534,USB Cable,Accessories,5,11.69,58.45,West,Net Banking,Customer_283,2023-12-25
+1535,Smartphone,Electronics,2,1053.89,2107.78,East,Credit Card,Customer_146,2023-01-29
+1536,Tablet,Electronics,1,314.04,314.04,South,Debit Card,Customer_116,2024-11-24
+1537,Monitor,Electronics,3,378.06,1134.18,North,Credit Card,Customer_243,2023-05-16
+1538,Keyboard,Accessories,5,84.07,420.35,South,UPI,Customer_157,2024-12-30
+1539,Headphones,Electronics,4,182.23,728.92,East,Cash,Customer_130,2023-08-12
+1540,USB Cable,Accessories,3,15.16,45.48,West,Net Banking,Customer_53,2023-01-08
+1541,Power Bank,Accessories,3,53.69,161.07,East,UPI,Customer_56,2024-05-08
+1542,Mouse,Accessories,3,39.65,118.95,East,UPI,Customer_134,2024-11-02
+1543,Headphones,Electronics,2,55.49,110.98,South,Credit Card,Customer_207,2024-11-07
+1544,Smartphone,Electronics,2,949.15,1898.3,West,UPI,Customer_133,2024-03-04
+1545,Tablet,Electronics,4,715.71,2862.84,South,UPI,Customer_114,2024-12-03
+1546,Power Bank,Accessories,4,74.39,297.56,East,Net Banking,Customer_154,2023-06-24
+1547,Power Bank,Accessories,2,37.63,75.26,West,Debit Card,Customer_133,2024-07-26
+1548,Keyboard,Accessories,3,72.35,217.05,South,UPI,Customer_115,2023-11-11
+1549,Tablet,Electronics,3,460.18,1380.54,East,Cash,Customer_61,2024-04-26
+1550,Laptop,Electronics,5,1227.2,6136.0,North,Cash,Customer_100,2024-05-27
+1551,Mouse,Accessories,4,25.9,103.6,West,Credit Card,Customer_78,2023-05-21
+1552,Monitor,Electronics,3,293.22,879.66,West,Debit Card,Customer_162,2023-07-04
+1553,Mouse,Accessories,4,19.98,79.92,South,UPI,Customer_30,2023-01-05
+1554,USB Cable,Accessories,3,8.14,24.42,South,Net Banking,Customer_82,2024-05-16
+1555,Mouse,Accessories,2,28.43,56.86,West,Cash,Customer_220,2024-05-03
+1556,Tablet,Electronics,1,226.41,226.41,South,UPI,Customer_8,2023-11-26
+1557,Power Bank,Accessories,2,21.07,42.14,North,Debit Card,Customer_116,2024-12-11
+1558,Smartphone,Electronics,3,416.04,1248.12,West,Net Banking,Customer_157,2023-06-21
+1559,Mouse,Accessories,1,18.95,18.95,East,Cash,Customer_267,2024-09-02
+1560,Power Bank,Accessories,3,46.02,138.06,South,UPI,Customer_251,2024-01-03
+1561,Monitor,Electronics,2,481.83,963.66,West,Credit Card,Customer_117,2023-08-18
+1562,Keyboard,Accessories,2,78.73,157.46,South,Credit Card,Customer_188,2024-12-29
+1563,Laptop,Electronics,4,1419.75,5679.0,East,Net Banking,Customer_25,2024-08-31
+1564,Laptop,Electronics,1,1274.82,1274.82,North,Credit Card,Customer_60,2024-03-02
+1565,USB Cable,Accessories,4,6.85,27.4,East,Cash,Customer_79,2023-07-30
+1566,Laptop,Electronics,3,1123.57,3370.71,North,Net Banking,Customer_139,2024-09-29
+1567,Printer,Electronics,2,204.71,409.42,North,Net Banking,Customer_61,2023-10-17
+1568,Mouse,Accessories,1,24.93,24.93,South,UPI,Customer_268,2023-07-26
+1569,Smartphone,Electronics,4,565.82,2263.28,North,Net Banking,Customer_255,2023-08-01
+1570,USB Cable,Accessories,3,8.52,25.56,North,Credit Card,Customer_57,2024-08-10
+1571,USB Cable,Accessories,2,19.24,38.48,North,Credit Card,Customer_132,2024-10-21
+1572,Monitor,Electronics,4,496.03,1984.12,East,UPI,Customer_238,2023-02-21
+1573,Mouse,Accessories,2,36.22,72.44,East,UPI,Customer_161,2024-03-12
+1574,Mouse,Accessories,1,35.54,35.54,North,Credit Card,Customer_71,2024-11-10
+1575,Keyboard,Accessories,3,48.6,145.8,West,Net Banking,Customer_138,2023-04-06
+1576,Smartphone,Electronics,3,464.58,1393.74,West,Cash,Customer_234,2023-10-06
+1577,Tablet,Electronics,4,759.93,3039.72,South,Credit Card,Customer_68,2024-12-13
+1578,Laptop,Electronics,2,917.41,1834.82,West,Net Banking,Customer_225,2023-07-05
+1579,Printer,Electronics,4,294.79,1179.16,North,Debit Card,Customer_248,2024-05-14
+1580,Mouse,Accessories,4,23.22,92.88,North,UPI,Customer_161,2023-01-13
+1581,Power Bank,Accessories,5,63.43,317.15,South,UPI,Customer_266,2024-06-19
+1582,Printer,Electronics,1,208.21,208.21,South,Cash,Customer_178,2024-11-10
+1583,Tablet,Electronics,2,787.32,1574.64,North,Credit Card,Customer_81,2024-06-01
+1584,USB Cable,Accessories,4,18.04,72.16,North,Cash,Customer_165,2023-09-04
+1585,Smartphone,Electronics,3,345.32,1035.96,South,Net Banking,Customer_194,2024-02-17
+1586,Monitor,Electronics,1,310.68,310.68,West,Credit Card,Customer_256,2024-04-02
+1587,Smartphone,Electronics,1,1182.6,1182.6,North,Credit Card,Customer_207,2024-02-27
+1588,Laptop,Electronics,5,1206.91,6034.55,North,Net Banking,Customer_156,2024-06-04
+1589,Power Bank,Accessories,2,59.28,118.56,West,UPI,Customer_187,2023-02-25
+1590,Monitor,Electronics,4,266.19,1064.76,West,UPI,Customer_232,2023-04-27
+1591,Mouse,Accessories,2,10.07,20.14,East,UPI,Customer_281,2024-06-18
+1592,Smartphone,Electronics,1,341.2,341.2,South,Cash,Customer_72,2024-02-24
+1593,Mouse,Accessories,3,28.33,84.99,South,Credit Card,Customer_202,2023-08-09
+1594,USB Cable,Accessories,2,15.75,31.5,North,Cash,Customer_24,2024-10-10
+1595,Printer,Electronics,1,293.04,293.04,West,Cash,Customer_259,2023-05-18
+1596,USB Cable,Accessories,1,12.96,12.96,North,Net Banking,Customer_222,2024-08-22
+1597,USB Cable,Accessories,5,16.72,83.6,South,Net Banking,Customer_89,2023-05-12
+1598,Mouse,Accessories,4,29.73,118.92,East,Net Banking,Customer_197,2024-03-04
+1599,Printer,Electronics,2,168.4,336.8,East,UPI,Customer_232,2023-05-17
+1600,Keyboard,Accessories,4,68.2,272.8,East,Net Banking,Customer_161,2024-12-29
+1601,Power Bank,Accessories,2,32.05,64.1,East,UPI,Customer_68,2024-12-28
+1602,Keyboard,Accessories,5,63.4,317.0,East,Credit Card,Customer_181,2024-07-29
+1603,USB Cable,Accessories,5,13.56,67.8,West,Net Banking,Customer_147,2024-03-08
+1604,Laptop,Electronics,5,919.21,4596.05,West,Debit Card,Customer_28,2024-11-17
+1605,Laptop,Electronics,2,1023.54,2047.08,South,UPI,Customer_129,2023-05-30
+1606,Laptop,Electronics,3,982.6,2947.8,North,UPI,Customer_232,2023-04-15
+1607,Printer,Electronics,5,316.21,1581.05,West,Debit Card,Customer_262,2024-12-13
+1608,Headphones,Electronics,1,187.5,187.5,West,Cash,Customer_161,2024-07-19
+1609,Laptop,Electronics,1,1333.39,1333.39,South,Net Banking,Customer_227,2023-08-19
+1610,Smartphone,Electronics,5,791.95,3959.75,South,Debit Card,Customer_151,2024-04-04
+1611,Keyboard,Accessories,1,34.96,34.96,South,Net Banking,Customer_62,2024-01-22
+1612,Laptop,Electronics,4,1031.42,4125.68,East,Debit Card,Customer_83,2024-08-21
+1613,Headphones,Electronics,1,86.2,86.2,South,Credit Card,Customer_79,2023-11-27
+1614,Printer,Electronics,1,293.42,293.42,East,Cash,Customer_294,2024-07-17
+1615,Smartphone,Electronics,1,1005.63,1005.63,East,Net Banking,Customer_113,2023-07-08
+1616,Power Bank,Accessories,1,67.18,67.18,South,Cash,Customer_279,2024-07-03
+1617,Tablet,Electronics,1,444.58,444.58,South,UPI,Customer_170,2024-01-05
+1618,Headphones,Electronics,2,191.55,383.1,West,Net Banking,Customer_5,2023-04-28
+1619,Smartphone,Electronics,4,516.31,2065.24,South,Credit Card,Customer_165,2024-01-26
+1620,Mouse,Accessories,4,17.7,70.8,East,Credit Card,Customer_265,2024-01-19
+1621,Power Bank,Accessories,5,46.73,233.65,North,UPI,Customer_99,2023-11-25
+1622,Power Bank,Accessories,1,76.89,76.89,South,Net Banking,Customer_274,2023-01-08
+1623,Mouse,Accessories,2,30.11,60.22,South,Cash,Customer_54,2023-07-30
+1624,Power Bank,Accessories,4,58.79,235.16,North,Debit Card,Customer_13,2024-04-15
+1625,Smartphone,Electronics,1,378.77,378.77,North,Debit Card,Customer_129,2024-07-25
+1626,Mouse,Accessories,5,34.65,173.25,East,Cash,Customer_199,2024-04-06
+1627,Tablet,Electronics,4,421.48,1685.92,West,Credit Card,Customer_274,2023-01-07
+1628,Printer,Electronics,1,288.99,288.99,North,Credit Card,Customer_184,2024-05-29
+1629,Mouse,Accessories,3,33.61,100.83,East,Net Banking,Customer_45,2023-10-16
+1630,USB Cable,Accessories,4,10.93,43.72,North,Cash,Customer_81,2024-06-30
+1631,Monitor,Electronics,2,411.36,822.72,East,Debit Card,Customer_153,2024-11-24
+1632,Smartphone,Electronics,1,798.17,798.17,South,Credit Card,Customer_22,2023-01-06
+1633,Printer,Electronics,5,198.52,992.6,North,UPI,Customer_108,2023-12-19
+1634,Monitor,Electronics,4,466.97,1867.88,South,Debit Card,Customer_95,2023-08-15
+1635,Printer,Electronics,3,148.58,445.74,South,Net Banking,Customer_28,2024-07-16
+1636,USB Cable,Accessories,5,6.1,30.5,North,UPI,Customer_51,2023-07-22
+1637,Printer,Electronics,4,337.88,1351.52,East,Debit Card,Customer_121,2023-04-13
+1638,Headphones,Electronics,5,41.87,209.35,South,UPI,Customer_249,2024-04-06
+1639,Smartphone,Electronics,5,893.48,4467.4,South,Net Banking,Customer_291,2024-01-09
+1640,Smartphone,Electronics,4,451.78,1807.12,East,Debit Card,Customer_114,2024-12-30
+1641,Tablet,Electronics,3,788.08,2364.24,South,UPI,Customer_246,2024-04-18
+1642,USB Cable,Accessories,3,16.62,49.86,West,Net Banking,Customer_56,2023-06-29
+1643,Printer,Electronics,1,310.45,310.45,South,Net Banking,Customer_101,2023-09-27
+1644,Mouse,Accessories,1,36.76,36.76,North,Net Banking,Customer_297,2024-02-19
+1645,Printer,Electronics,2,326.58,653.16,East,Net Banking,Customer_277,2024-04-28
+1646,Keyboard,Accessories,3,51.4,154.2,East,Debit Card,Customer_238,2024-05-28
+1647,Power Bank,Accessories,1,43.81,43.81,North,Debit Card,Customer_85,2024-06-10
+1648,Keyboard,Accessories,4,32.74,130.96,South,Cash,Customer_184,2023-02-11
+1649,Monitor,Electronics,4,231.11,924.44,East,UPI,Customer_120,2023-02-13
+1650,Monitor,Electronics,5,467.7,2338.5,East,Cash,Customer_241,2024-04-10
+1651,Laptop,Electronics,1,1487.38,1487.38,East,Credit Card,Customer_267,2024-10-10
+1652,Headphones,Electronics,3,128.37,385.11,South,Cash,Customer_194,2024-01-10
+1653,Printer,Electronics,1,229.17,229.17,West,Debit Card,Customer_265,2024-02-20
+1654,Smartphone,Electronics,3,738.18,2214.54,West,Net Banking,Customer_4,2024-05-28
+1655,Keyboard,Accessories,4,33.25,133.0,North,Net Banking,Customer_144,2023-08-05
+1656,Keyboard,Accessories,2,32.59,65.18,North,Debit Card,Customer_213,2023-12-05
+1657,Mouse,Accessories,4,30.26,121.04,West,Debit Card,Customer_83,2024-10-24
+1658,Tablet,Electronics,1,370.57,370.57,South,Net Banking,Customer_83,2023-05-18
+1659,Power Bank,Accessories,1,73.45,73.45,South,Credit Card,Customer_86,2023-09-22
+1660,Keyboard,Accessories,5,96.66,483.3,North,UPI,Customer_44,2023-08-10
+1661,USB Cable,Accessories,5,19.89,99.45,West,Debit Card,Customer_113,2024-02-25
+1662,Printer,Electronics,2,298.65,597.3,South,Net Banking,Customer_262,2023-09-28
+1663,Keyboard,Accessories,3,93.79,281.37,North,Debit Card,Customer_194,2024-01-30
+1664,Keyboard,Accessories,1,21.33,21.33,West,Debit Card,Customer_50,2023-07-01
+1665,USB Cable,Accessories,5,14.0,70.0,North,Credit Card,Customer_247,2024-11-06
+1666,Keyboard,Accessories,5,63.14,315.7,North,Cash,Customer_268,2024-03-06
+1667,Smartphone,Electronics,1,927.88,927.88,West,Debit Card,Customer_247,2024-01-26
+1668,Smartphone,Electronics,5,1024.16,5120.8,North,Cash,Customer_69,2023-09-18
+1669,USB Cable,Accessories,2,18.65,37.3,North,UPI,Customer_279,2024-02-23
+1670,Headphones,Electronics,2,30.93,61.86,North,Net Banking,Customer_268,2023-05-01
+1671,Power Bank,Accessories,1,42.5,42.5,South,UPI,Customer_210,2024-01-06
+1672,Mouse,Accessories,2,22.78,45.56,East,UPI,Customer_275,2024-03-09
+1673,Printer,Electronics,3,252.97,758.91,West,Debit Card,Customer_212,2024-07-19
+1674,Power Bank,Accessories,4,30.72,122.88,West,UPI,Customer_158,2024-08-14
+1675,Smartphone,Electronics,4,962.2,3848.8,North,Debit Card,Customer_229,2024-12-17
+1676,Keyboard,Accessories,1,37.16,37.16,West,UPI,Customer_282,2024-09-20
+1677,Laptop,Electronics,2,1102.92,2205.84,North,Credit Card,Customer_75,2024-04-27
+1678,Printer,Electronics,4,122.04,488.16,East,Debit Card,Customer_190,2023-03-23
+1679,Printer,Electronics,1,281.12,281.12,West,Net Banking,Customer_267,2023-10-21
+1680,Printer,Electronics,1,336.43,336.43,South,Cash,Customer_225,2023-01-11
+1681,Monitor,Electronics,5,250.1,1250.5,North,Net Banking,Customer_262,2024-06-12
+1682,Monitor,Electronics,5,209.32,1046.6,North,UPI,Customer_123,2024-11-01
+1683,Laptop,Electronics,2,906.45,1812.9,East,Cash,Customer_181,2024-11-16
+1684,Tablet,Electronics,4,610.26,2441.04,North,Credit Card,Customer_47,2024-07-16
+1685,Headphones,Electronics,5,185.55,927.75,East,UPI,Customer_142,2023-08-20
+1686,Printer,Electronics,2,213.69,427.38,West,Net Banking,Customer_3,2023-09-25
+1687,Keyboard,Accessories,4,60.5,242.0,North,Net Banking,Customer_151,2023-12-15
+1688,Mouse,Accessories,5,38.7,193.5,East,Cash,Customer_194,2024-07-30
+1689,USB Cable,Accessories,2,16.36,32.72,West,Cash,Customer_15,2024-05-08
+1690,Mouse,Accessories,3,12.03,36.09,South,Debit Card,Customer_162,2024-02-27
+1691,Smartphone,Electronics,5,782.09,3910.45,East,Debit Card,Customer_148,2023-04-06
+1692,Tablet,Electronics,3,253.22,759.66,South,Cash,Customer_161,2023-12-29
+1693,Monitor,Electronics,5,244.18,1220.9,South,Cash,Customer_103,2023-08-29
+1694,Monitor,Electronics,3,222.37,667.11,South,Debit Card,Customer_183,2023-06-09
+1695,Mouse,Accessories,1,37.61,37.61,West,Net Banking,Customer_4,2024-07-08
+1696,Laptop,Electronics,4,1091.28,4365.12,East,Cash,Customer_295,2023-10-09
+1697,USB Cable,Accessories,2,19.77,39.54,East,Cash,Customer_114,2024-08-13
+1698,Keyboard,Accessories,1,62.06,62.06,West,Cash,Customer_277,2023-02-03
+1699,Power Bank,Accessories,3,43.62,130.86,South,Cash,Customer_62,2024-12-16
+1700,Power Bank,Accessories,4,38.94,155.76,North,Credit Card,Customer_108,2024-01-24
+1701,Printer,Electronics,1,181.36,181.36,East,Debit Card,Customer_281,2023-09-27
+1702,Monitor,Electronics,3,314.97,944.91,East,UPI,Customer_95,2024-05-25
+1703,Tablet,Electronics,2,493.37,986.74,East,UPI,Customer_206,2023-10-14
+1704,USB Cable,Accessories,2,13.57,27.14,South,Credit Card,Customer_139,2023-08-30
+1705,Power Bank,Accessories,4,71.38,285.52,South,Debit Card,Customer_77,2024-04-29
+1706,Laptop,Electronics,2,1123.99,2247.98,South,Net Banking,Customer_274,2023-11-20
+1707,USB Cable,Accessories,3,8.76,26.28,North,Cash,Customer_51,2024-12-08
+1708,Keyboard,Accessories,1,37.24,37.24,East,Cash,Customer_50,2024-04-05
+1709,Smartphone,Electronics,3,624.87,1874.61,East,UPI,Customer_11,2024-02-26
+1710,Mouse,Accessories,3,36.02,108.06,South,Net Banking,Customer_295,2024-10-27
+1711,Power Bank,Accessories,2,78.76,157.52,East,UPI,Customer_167,2024-11-20
+1712,Power Bank,Accessories,4,66.48,265.92,West,Credit Card,Customer_196,2024-09-20
+1713,Headphones,Electronics,4,137.39,549.56,South,Debit Card,Customer_173,2024-03-07
+1714,Printer,Electronics,5,201.19,1005.95,North,Credit Card,Customer_83,2023-12-18
+1715,Monitor,Electronics,3,260.91,782.73,East,UPI,Customer_203,2023-10-05
+1716,USB Cable,Accessories,3,16.22,48.66,West,Cash,Customer_86,2023-07-08
+1717,Laptop,Electronics,2,1323.05,2646.1,East,Credit Card,Customer_108,2023-06-20
+1718,Tablet,Electronics,1,266.89,266.89,West,Net Banking,Customer_28,2023-01-27
+1719,Tablet,Electronics,5,735.5,3677.5,North,Credit Card,Customer_135,2024-09-24
+1720,Keyboard,Accessories,1,72.39,72.39,West,UPI,Customer_118,2023-09-11
+1721,Headphones,Electronics,4,136.5,546.0,South,Net Banking,Customer_88,2023-01-30
+1722,Laptop,Electronics,3,1409.24,4227.72,East,Cash,Customer_240,2024-07-07
+1723,Headphones,Electronics,5,105.62,528.1,South,Net Banking,Customer_234,2024-10-08
+1724,Printer,Electronics,4,230.86,923.44,East,UPI,Customer_247,2024-07-06
+1725,Monitor,Electronics,1,304.65,304.65,East,Cash,Customer_134,2023-06-09
+1726,Headphones,Electronics,1,30.02,30.02,South,UPI,Customer_147,2024-04-25
+1727,Power Bank,Accessories,1,61.27,61.27,West,Cash,Customer_154,2023-01-10
+1728,Tablet,Electronics,3,617.9,1853.7,North,Net Banking,Customer_192,2023-07-13
+1729,Tablet,Electronics,5,505.97,2529.85,South,Debit Card,Customer_200,2024-01-23
+1730,Monitor,Electronics,3,177.72,533.16,South,Net Banking,Customer_140,2023-10-19
+1731,Power Bank,Accessories,3,44.77,134.31,North,Debit Card,Customer_70,2023-10-24
+1732,Mouse,Accessories,4,28.53,114.12,East,Net Banking,Customer_252,2023-07-12
+1733,Smartphone,Electronics,1,436.93,436.93,North,Debit Card,Customer_53,2023-10-16
+1734,Headphones,Electronics,2,151.58,303.16,North,Debit Card,Customer_47,2023-06-04
+1735,Laptop,Electronics,4,991.17,3964.68,West,UPI,Customer_256,2024-01-16
+1736,USB Cable,Accessories,1,9.95,9.95,South,Credit Card,Customer_137,2024-02-06
+1737,Mouse,Accessories,5,24.1,120.5,South,UPI,Customer_196,2023-01-13
+1738,Mouse,Accessories,2,21.54,43.08,West,Debit Card,Customer_18,2023-07-23
+1739,USB Cable,Accessories,1,12.82,12.82,South,Cash,Customer_200,2024-11-28
+1740,Headphones,Electronics,3,56.96,170.88,North,Net Banking,Customer_267,2023-05-06
+1741,Headphones,Electronics,4,138.55,554.2,South,UPI,Customer_27,2024-11-13
+1742,Monitor,Electronics,1,232.59,232.59,West,UPI,Customer_8,2023-06-21
+1743,Headphones,Electronics,5,50.34,251.7,South,Credit Card,Customer_22,2024-08-18
+1744,USB Cable,Accessories,5,7.32,36.6,North,Debit Card,Customer_81,2024-05-26
+1745,Mouse,Accessories,5,20.15,100.75,North,Credit Card,Customer_183,2024-10-22
+1746,Keyboard,Accessories,5,83.32,416.6,South,Cash,Customer_120,2023-11-21
+1747,Power Bank,Accessories,3,68.33,204.99,West,Debit Card,Customer_11,2024-12-06
+1748,Tablet,Electronics,3,707.08,2121.24,East,Credit Card,Customer_249,2024-12-24
+1749,USB Cable,Accessories,5,9.42,47.1,West,Debit Card,Customer_291,2023-07-11
+1750,Power Bank,Accessories,3,39.42,118.26,West,UPI,Customer_284,2023-06-14
+1751,Mouse,Accessories,5,14.65,73.25,East,UPI,Customer_278,2024-01-11
+1752,USB Cable,Accessories,1,16.64,16.64,West,Debit Card,Customer_10,2024-09-26
+1753,Smartphone,Electronics,5,514.91,2574.55,North,Net Banking,Customer_199,2023-07-14
+1754,Power Bank,Accessories,4,65.94,263.76,South,Net Banking,Customer_145,2023-11-27
+1755,Tablet,Electronics,3,277.32,831.96,North,Credit Card,Customer_67,2023-07-02
+1756,Laptop,Electronics,2,919.59,1839.18,South,Credit Card,Customer_17,2024-08-07
+1757,Tablet,Electronics,4,568.07,2272.28,East,Credit Card,Customer_188,2023-08-15
+1758,Printer,Electronics,1,103.27,103.27,South,Cash,Customer_41,2024-04-24
+1759,Laptop,Electronics,3,1212.71,3638.13,West,UPI,Customer_30,2024-09-23
+1760,Headphones,Electronics,5,36.91,184.55,North,UPI,Customer_40,2023-08-10
+1761,Power Bank,Accessories,1,26.07,26.07,South,Net Banking,Customer_198,2023-07-14
+1762,Monitor,Electronics,5,379.91,1899.55,South,Net Banking,Customer_286,2024-03-01
+1763,Mouse,Accessories,5,20.74,103.7,West,Cash,Customer_54,2023-06-20
+1764,Keyboard,Accessories,5,52.12,260.6,East,Debit Card,Customer_274,2024-09-06
+1765,USB Cable,Accessories,3,18.54,55.62,East,UPI,Customer_212,2024-10-10
+1766,Tablet,Electronics,3,625.89,1877.67,South,Cash,Customer_282,2023-09-18
+1767,Smartphone,Electronics,4,702.75,2811.0,West,Credit Card,Customer_18,2023-10-19
+1768,Printer,Electronics,1,229.4,229.4,East,Credit Card,Customer_154,2023-08-16
+1769,Monitor,Electronics,3,157.6,472.8,East,Net Banking,Customer_262,2024-07-23
+1770,Printer,Electronics,5,138.68,693.4,North,Cash,Customer_183,2023-06-09
+1771,Keyboard,Accessories,3,49.37,148.11,South,Debit Card,Customer_132,2023-11-04
+1772,Mouse,Accessories,5,21.99,109.95,South,Credit Card,Customer_167,2024-05-09
+1773,Keyboard,Accessories,4,86.06,344.24,North,Net Banking,Customer_154,2023-02-08
+1774,Printer,Electronics,4,119.62,478.48,North,UPI,Customer_179,2024-03-20
+1775,Tablet,Electronics,1,808.85,808.85,South,Net Banking,Customer_6,2024-10-11
+1776,Tablet,Electronics,1,413.35,413.35,North,UPI,Customer_277,2024-08-01
+1777,Keyboard,Accessories,3,60.19,180.57,South,Debit Card,Customer_26,2024-11-20
+1778,Tablet,Electronics,4,726.99,2907.96,North,Debit Card,Customer_222,2023-10-24
+1779,Tablet,Electronics,2,292.53,585.06,North,Cash,Customer_293,2023-02-20
+1780,Power Bank,Accessories,4,35.75,143.0,West,Net Banking,Customer_223,2024-12-15
+1781,Keyboard,Accessories,2,58.47,116.94,South,Cash,Customer_203,2024-10-29
+1782,Printer,Electronics,2,240.29,480.58,South,Debit Card,Customer_37,2023-09-30
+1783,Tablet,Electronics,3,679.32,2037.96,North,Credit Card,Customer_212,2024-03-09
+1784,Smartphone,Electronics,3,471.44,1414.32,East,Net Banking,Customer_13,2023-11-09
+1785,Keyboard,Accessories,3,69.3,207.9,West,Net Banking,Customer_75,2024-03-27
+1786,Laptop,Electronics,2,979.8,1959.6,East,Debit Card,Customer_44,2023-04-26
+1787,Laptop,Electronics,2,1466.81,2933.62,South,UPI,Customer_8,2023-12-18
+1788,Mouse,Accessories,3,23.5,70.5,North,UPI,Customer_108,2024-07-04
+1789,Monitor,Electronics,2,341.25,682.5,East,Net Banking,Customer_248,2024-09-29
+1790,Keyboard,Accessories,1,50.13,50.13,North,UPI,Customer_88,2023-03-03
+1791,Headphones,Electronics,2,164.16,328.32,East,Credit Card,Customer_239,2024-11-01
+1792,Laptop,Electronics,1,1102.62,1102.62,East,UPI,Customer_56,2023-01-20
+1793,Headphones,Electronics,4,69.3,277.2,West,Net Banking,Customer_51,2023-11-20
+1794,USB Cable,Accessories,5,12.97,64.85,South,Debit Card,Customer_257,2024-04-13
+1795,Power Bank,Accessories,1,22.39,22.39,East,UPI,Customer_251,2024-02-07
+1796,Keyboard,Accessories,1,47.74,47.74,East,UPI,Customer_155,2023-08-30
+1797,Power Bank,Accessories,3,68.71,206.13,East,Cash,Customer_16,2024-07-22
+1798,Headphones,Electronics,2,55.79,111.58,West,Debit Card,Customer_45,2024-01-27
+1799,Power Bank,Accessories,5,72.36,361.8,South,Cash,Customer_124,2024-08-09
+1800,Keyboard,Accessories,4,97.64,390.56,East,Cash,Customer_278,2023-05-15
+1801,Monitor,Electronics,2,353.36,706.72,South,Debit Card,Customer_159,2024-12-06
+1802,Power Bank,Accessories,2,45.8,91.6,South,Net Banking,Customer_81,2023-11-22
+1803,Mouse,Accessories,5,25.99,129.95,North,Debit Card,Customer_163,2023-05-30
+1804,Laptop,Electronics,3,1422.09,4266.27,West,Cash,Customer_156,2024-03-29
+1805,Headphones,Electronics,2,162.45,324.9,North,Debit Card,Customer_95,2023-01-27
+1806,Printer,Electronics,5,166.72,833.6,South,Net Banking,Customer_119,2023-08-25
+1807,Laptop,Electronics,3,901.66,2704.98,West,Debit Card,Customer_258,2024-09-11
+1808,USB Cable,Accessories,3,7.76,23.28,West,Cash,Customer_243,2023-05-21
+1809,Keyboard,Accessories,2,38.1,76.2,West,Credit Card,Customer_139,2024-02-27
+1810,Monitor,Electronics,2,415.22,830.44,North,Debit Card,Customer_225,2024-09-23
+1811,USB Cable,Accessories,3,18.0,54.0,South,Cash,Customer_208,2023-02-12
+1812,Printer,Electronics,4,280.05,1120.2,West,Net Banking,Customer_293,2024-08-31
+1813,Power Bank,Accessories,5,58.48,292.4,North,Net Banking,Customer_56,2024-04-07
+1814,USB Cable,Accessories,1,18.17,18.17,South,Net Banking,Customer_276,2024-02-10
+1815,Laptop,Electronics,5,1101.81,5509.05,North,Debit Card,Customer_150,2024-03-26
+1816,Tablet,Electronics,3,741.57,2224.71,East,Cash,Customer_86,2024-03-08
+1817,Headphones,Electronics,5,186.24,931.2,South,Cash,Customer_232,2023-04-03
+1818,Power Bank,Accessories,1,30.79,30.79,South,Cash,Customer_212,2023-11-28
+1819,USB Cable,Accessories,1,7.68,7.68,South,Cash,Customer_47,2023-09-14
+1820,Smartphone,Electronics,2,946.54,1893.08,North,Credit Card,Customer_59,2024-12-24
+1821,USB Cable,Accessories,3,6.28,18.84,West,Net Banking,Customer_82,2024-01-23
+1822,Power Bank,Accessories,4,22.63,90.52,South,UPI,Customer_290,2024-11-06
+1823,Keyboard,Accessories,2,89.51,179.02,South,Credit Card,Customer_215,2023-11-12
+1824,Headphones,Electronics,4,79.09,316.36,South,Credit Card,Customer_68,2023-07-27
+1825,Laptop,Electronics,5,1347.51,6737.55,North,Cash,Customer_255,2024-05-25
+1826,Power Bank,Accessories,1,56.48,56.48,West,Debit Card,Customer_112,2024-08-25
+1827,USB Cable,Accessories,4,11.15,44.6,North,Net Banking,Customer_4,2023-09-08
+1828,Power Bank,Accessories,3,57.19,171.57,South,Credit Card,Customer_95,2023-06-01
+1829,Laptop,Electronics,3,873.87,2621.61,North,Net Banking,Customer_153,2023-12-06
+1830,Mouse,Accessories,1,13.27,13.27,South,Debit Card,Customer_146,2024-09-17
+1831,Printer,Electronics,5,296.83,1484.15,South,Cash,Customer_297,2024-01-04
+1832,Laptop,Electronics,1,1349.53,1349.53,East,UPI,Customer_195,2023-03-11
+1833,Tablet,Electronics,5,245.45,1227.25,West,Debit Card,Customer_63,2024-12-12
+1834,Headphones,Electronics,3,119.6,358.8,South,Debit Card,Customer_30,2023-04-22
+1835,Printer,Electronics,5,346.8,1734.0,West,Net Banking,Customer_148,2024-03-13
+1836,Printer,Electronics,3,164.92,494.76,East,Debit Card,Customer_289,2024-05-23
+1837,Power Bank,Accessories,4,49.55,198.2,South,Net Banking,Customer_120,2024-12-26
+1838,Headphones,Electronics,2,30.27,60.54,North,Cash,Customer_61,2023-08-01
+1839,Printer,Electronics,4,203.51,814.04,East,UPI,Customer_287,2024-10-14
+1840,Monitor,Electronics,1,374.22,374.22,East,UPI,Customer_35,2023-11-12
+1841,Headphones,Electronics,5,123.5,617.5,North,Credit Card,Customer_171,2023-12-16
+1842,Tablet,Electronics,5,631.2,3156.0,North,Debit Card,Customer_100,2023-12-05
+1843,Smartphone,Electronics,4,1124.55,4498.2,North,Debit Card,Customer_247,2023-06-09
+1844,USB Cable,Accessories,5,18.44,92.2,West,Cash,Customer_29,2024-06-17
+1845,Headphones,Electronics,5,153.24,766.2,East,Net Banking,Customer_275,2023-01-20
+1846,Monitor,Electronics,5,389.92,1949.6,East,Credit Card,Customer_77,2023-10-15
+1847,Laptop,Electronics,3,1489.35,4468.05,South,Net Banking,Customer_200,2023-07-11
+1848,Printer,Electronics,1,316.15,316.15,East,UPI,Customer_17,2023-10-06
+1849,Tablet,Electronics,1,547.94,547.94,South,UPI,Customer_232,2023-11-06
+1850,Monitor,Electronics,5,255.81,1279.05,North,UPI,Customer_20,2023-07-26
+1851,Mouse,Accessories,4,25.18,100.72,West,Net Banking,Customer_79,2023-07-14
+1852,Smartphone,Electronics,4,959.2,3836.8,East,UPI,Customer_74,2023-04-11
+1853,Power Bank,Accessories,2,32.31,64.62,North,Cash,Customer_199,2024-12-31
+1854,Power Bank,Accessories,1,20.25,20.25,North,Net Banking,Customer_45,2023-12-08
+1855,USB Cable,Accessories,1,6.55,6.55,East,Credit Card,Customer_296,2023-11-16
+1856,Monitor,Electronics,3,220.19,660.57,East,UPI,Customer_273,2023-11-23
+1857,USB Cable,Accessories,1,9.09,9.09,South,UPI,Customer_59,2023-01-16
+1858,Printer,Electronics,5,228.52,1142.6,South,Net Banking,Customer_180,2024-07-16
+1859,Smartphone,Electronics,3,427.4,1282.2,East,Net Banking,Customer_126,2023-06-25
+1860,Mouse,Accessories,3,28.4,85.2,East,Net Banking,Customer_228,2023-02-21
+1861,Keyboard,Accessories,1,57.66,57.66,North,Credit Card,Customer_197,2023-02-25
+1862,Mouse,Accessories,4,21.76,87.04,West,Net Banking,Customer_183,2023-11-16
+1863,Smartphone,Electronics,2,941.61,1883.22,North,Cash,Customer_291,2023-05-15
+1864,Mouse,Accessories,4,12.92,51.68,East,Cash,Customer_241,2023-08-26
+1865,Monitor,Electronics,2,451.38,902.76,East,UPI,Customer_201,2023-07-07
+1866,Smartphone,Electronics,3,707.95,2123.85,North,Credit Card,Customer_244,2023-04-26
+1867,Smartphone,Electronics,4,715.12,2860.48,South,UPI,Customer_179,2024-09-10
+1868,Printer,Electronics,2,226.99,453.98,West,Credit Card,Customer_167,2024-07-23
+1869,Mouse,Accessories,3,25.98,77.94,West,Net Banking,Customer_212,2023-09-02
+1870,Printer,Electronics,2,236.99,473.98,West,Cash,Customer_34,2023-12-15
+1871,Monitor,Electronics,5,300.9,1504.5,West,Net Banking,Customer_176,2024-07-11
+1872,Monitor,Electronics,2,381.91,763.82,North,Net Banking,Customer_250,2023-04-28
+1873,Printer,Electronics,5,215.73,1078.65,North,Cash,Customer_91,2023-11-12
+1874,Tablet,Electronics,1,618.78,618.78,West,UPI,Customer_254,2024-10-22
+1875,Laptop,Electronics,1,991.45,991.45,South,Net Banking,Customer_1,2023-05-31
+1876,Keyboard,Accessories,4,62.5,250.0,West,Net Banking,Customer_296,2024-04-02
+1877,Monitor,Electronics,2,388.53,777.06,East,UPI,Customer_292,2024-11-26
+1878,Headphones,Electronics,4,152.02,608.08,East,Credit Card,Customer_299,2023-01-09
+1879,Printer,Electronics,5,201.05,1005.25,South,UPI,Customer_32,2024-01-14
+1880,Power Bank,Accessories,1,20.05,20.05,East,Credit Card,Customer_145,2023-02-01
+1881,Monitor,Electronics,4,395.78,1583.12,West,UPI,Customer_196,2024-02-20
+1882,Tablet,Electronics,4,581.58,2326.32,South,Cash,Customer_72,2023-07-12
+1883,Power Bank,Accessories,4,70.6,282.4,East,Cash,Customer_79,2023-10-23
+1884,Keyboard,Accessories,2,20.93,41.86,North,Debit Card,Customer_250,2024-11-04
+1885,Tablet,Electronics,2,259.26,518.52,West,Cash,Customer_218,2024-09-30
+1886,Keyboard,Accessories,4,60.75,243.0,West,Cash,Customer_182,2023-08-20
+1887,Keyboard,Accessories,4,68.37,273.48,West,Debit Card,Customer_257,2023-10-03
+1888,Tablet,Electronics,5,603.45,3017.25,North,Credit Card,Customer_291,2024-05-09
+1889,Smartphone,Electronics,1,822.24,822.24,North,Debit Card,Customer_270,2023-10-14
+1890,USB Cable,Accessories,5,6.17,30.85,North,Debit Card,Customer_242,2024-10-07
+1891,Mouse,Accessories,5,33.94,169.7,East,Net Banking,Customer_28,2023-12-18
+1892,Power Bank,Accessories,1,48.13,48.13,West,Net Banking,Customer_170,2024-03-07
+1893,Smartphone,Electronics,3,560.29,1680.87,North,Net Banking,Customer_156,2024-07-31
+1894,Headphones,Electronics,1,136.98,136.98,South,Net Banking,Customer_27,2024-11-03
+1895,Headphones,Electronics,5,34.64,173.2,West,Credit Card,Customer_65,2024-06-01
+1896,Mouse,Accessories,3,17.56,52.68,East,UPI,Customer_132,2023-01-15
+1897,Mouse,Accessories,5,15.24,76.2,South,Cash,Customer_190,2023-06-29
+1898,Headphones,Electronics,2,112.44,224.88,North,UPI,Customer_44,2023-05-29
+1899,Printer,Electronics,2,309.4,618.8,West,Cash,Customer_122,2024-11-07
+1900,USB Cable,Accessories,2,8.16,16.32,East,Credit Card,Customer_136,2023-04-29
+1901,Laptop,Electronics,2,1151.61,2303.22,West,UPI,Customer_244,2024-06-29
+1902,Monitor,Electronics,4,389.23,1556.92,West,Cash,Customer_135,2023-05-29
+1903,Power Bank,Accessories,4,20.71,82.84,West,Cash,Customer_162,2024-06-26
+1904,Laptop,Electronics,1,1446.51,1446.51,East,Cash,Customer_140,2023-12-10
+1905,Headphones,Electronics,3,166.39,499.17,East,Net Banking,Customer_201,2024-04-17
+1906,Monitor,Electronics,5,419.67,2098.35,East,Debit Card,Customer_161,2024-07-14
+1907,Laptop,Electronics,1,1390.6,1390.6,North,Cash,Customer_51,2024-06-21
+1908,Mouse,Accessories,4,20.55,82.2,East,UPI,Customer_99,2023-02-04
+1909,Laptop,Electronics,5,909.76,4548.8,South,Net Banking,Customer_63,2024-12-26
+1910,Mouse,Accessories,1,35.69,35.69,South,Cash,Customer_290,2023-07-09
+1911,Mouse,Accessories,2,17.6,35.2,West,Credit Card,Customer_233,2023-10-11
+1912,Tablet,Electronics,3,380.14,1140.42,North,UPI,Customer_32,2024-01-27
+1913,Tablet,Electronics,3,897.17,2691.51,East,UPI,Customer_92,2024-03-27
+1914,Mouse,Accessories,4,39.38,157.52,South,Net Banking,Customer_202,2023-07-02
+1915,USB Cable,Accessories,1,7.16,7.16,West,Debit Card,Customer_55,2024-03-28
+1916,Headphones,Electronics,1,35.93,35.93,North,Net Banking,Customer_129,2024-04-01
+1917,Laptop,Electronics,4,946.76,3787.04,North,Credit Card,Customer_200,2023-09-30
+1918,Keyboard,Accessories,3,92.37,277.11,North,Net Banking,Customer_252,2024-05-04
+1919,Tablet,Electronics,4,790.83,3163.32,North,Net Banking,Customer_116,2023-01-04
+1920,Tablet,Electronics,4,284.84,1139.36,East,UPI,Customer_156,2024-02-15
+1921,Laptop,Electronics,1,1087.48,1087.48,East,Credit Card,Customer_236,2023-10-24
+1922,Monitor,Electronics,2,344.07,688.14,West,Debit Card,Customer_154,2024-12-13
+1923,Tablet,Electronics,1,641.43,641.43,East,Cash,Customer_44,2024-10-09
+1924,USB Cable,Accessories,2,7.1,14.2,South,Credit Card,Customer_123,2024-05-15
+1925,Tablet,Electronics,1,754.92,754.92,East,Cash,Customer_274,2024-04-05
+1926,Laptop,Electronics,1,1070.54,1070.54,East,Credit Card,Customer_208,2023-05-02
+1927,Monitor,Electronics,5,310.43,1552.15,South,Net Banking,Customer_120,2023-03-15
+1928,Laptop,Electronics,2,1167.78,2335.56,North,Cash,Customer_24,2023-09-06
+1929,Keyboard,Accessories,1,33.78,33.78,North,UPI,Customer_50,2024-04-12
+1930,Printer,Electronics,2,308.84,617.68,North,Credit Card,Customer_59,2024-05-24
+1931,Printer,Electronics,5,155.14,775.7,South,Cash,Customer_173,2024-11-25
+1932,Tablet,Electronics,3,284.56,853.68,South,UPI,Customer_110,2023-02-16
+1933,Printer,Electronics,2,183.88,367.76,North,UPI,Customer_73,2024-03-01
+1934,Keyboard,Accessories,3,64.27,192.81,West,Debit Card,Customer_298,2023-02-11
+1935,Keyboard,Accessories,1,83.28,83.28,West,Debit Card,Customer_9,2024-05-13
+1936,Mouse,Accessories,1,10.22,10.22,North,Net Banking,Customer_146,2024-03-02
+1937,USB Cable,Accessories,2,8.09,16.18,East,Net Banking,Customer_231,2024-02-26
+1938,Monitor,Electronics,2,363.69,727.38,North,Net Banking,Customer_93,2024-05-26
+1939,Printer,Electronics,1,256.8,256.8,East,UPI,Customer_215,2023-01-05
+1940,Power Bank,Accessories,2,31.51,63.02,North,Net Banking,Customer_186,2024-07-06
+1941,Power Bank,Accessories,2,47.85,95.7,South,UPI,Customer_28,2023-07-18
+1942,Mouse,Accessories,2,30.56,61.12,West,Cash,Customer_91,2023-06-13
+1943,Laptop,Electronics,1,1269.16,1269.16,East,Debit Card,Customer_223,2023-09-15
+1944,Smartphone,Electronics,5,1024.64,5123.2,West,Credit Card,Customer_54,2023-02-23
+1945,Power Bank,Accessories,2,29.48,58.96,North,Cash,Customer_264,2023-04-29
+1946,Mouse,Accessories,2,31.64,63.28,East,Cash,Customer_102,2024-11-24
+1947,Smartphone,Electronics,2,1001.08,2002.16,East,Debit Card,Customer_51,2023-08-31
+1948,Tablet,Electronics,2,462.87,925.74,South,Credit Card,Customer_242,2024-08-22
+1949,USB Cable,Accessories,1,18.36,18.36,South,Debit Card,Customer_233,2023-07-02
+1950,Tablet,Electronics,3,295.48,886.44,South,UPI,Customer_139,2023-07-27
+1951,Smartphone,Electronics,2,328.89,657.78,North,UPI,Customer_70,2023-04-24
+1952,USB Cable,Accessories,4,11.27,45.08,East,Debit Card,Customer_152,2024-09-10
+1953,Keyboard,Accessories,5,92.45,462.25,South,Credit Card,Customer_211,2024-06-18
+1954,USB Cable,Accessories,2,13.87,27.74,West,UPI,Customer_8,2024-03-14
+1955,Monitor,Electronics,2,264.55,529.1,South,Net Banking,Customer_77,2024-08-10
+1956,Laptop,Electronics,4,1487.12,5948.48,North,Cash,Customer_259,2023-02-04
+1957,Tablet,Electronics,5,476.02,2380.1,North,Cash,Customer_254,2023-09-04
+1958,Mouse,Accessories,5,32.59,162.95,West,Debit Card,Customer_68,2024-01-03
+1959,Headphones,Electronics,2,140.1,280.2,North,Credit Card,Customer_246,2024-11-16
+1960,Headphones,Electronics,2,149.56,299.12,North,Cash,Customer_238,2023-05-22
+1961,Tablet,Electronics,2,752.9,1505.8,East,Cash,Customer_1,2024-10-04
+1962,Mouse,Accessories,4,36.8,147.2,East,Net Banking,Customer_17,2023-10-31
+1963,Tablet,Electronics,3,688.64,2065.92,South,Credit Card,Customer_172,2023-02-26
+1964,Power Bank,Accessories,3,73.28,219.84,North,Cash,Customer_188,2024-04-21
+1965,Printer,Electronics,1,191.39,191.39,South,Net Banking,Customer_35,2024-07-28
+1966,Monitor,Electronics,2,493.44,986.88,South,Net Banking,Customer_59,2024-10-26
+1967,USB Cable,Accessories,5,18.07,90.35,South,Debit Card,Customer_165,2023-12-28
+1968,Headphones,Electronics,5,145.64,728.2,East,Credit Card,Customer_33,2024-01-17
+1969,Smartphone,Electronics,4,737.6,2950.4,North,Cash,Customer_273,2024-11-25
+1970,Power Bank,Accessories,3,47.12,141.36,East,Credit Card,Customer_97,2024-04-13
+1971,Mouse,Accessories,1,21.72,21.72,South,UPI,Customer_40,2023-04-22
+1972,Keyboard,Accessories,3,28.96,86.88,South,Cash,Customer_78,2023-07-29
+1973,Power Bank,Accessories,1,37.59,37.59,South,Cash,Customer_178,2024-03-06
+1974,USB Cable,Accessories,1,9.37,9.37,North,Credit Card,Customer_119,2024-06-16
+1975,Smartphone,Electronics,4,820.83,3283.32,East,Cash,Customer_272,2024-07-15
+1976,USB Cable,Accessories,4,9.56,38.24,South,UPI,Customer_88,2023-09-24
+1977,Monitor,Electronics,4,280.17,1120.68,East,Credit Card,Customer_76,2023-12-28
+1978,Headphones,Electronics,4,192.56,770.24,South,Net Banking,Customer_147,2023-07-06
+1979,Keyboard,Accessories,2,32.9,65.8,North,Credit Card,Customer_163,2024-08-11
+1980,Keyboard,Accessories,4,40.83,163.32,South,Debit Card,Customer_288,2024-12-25
+1981,Laptop,Electronics,3,1485.71,4457.13,South,UPI,Customer_230,2024-07-06
+1982,Keyboard,Accessories,5,44.12,220.6,North,Cash,Customer_256,2023-05-29
+1983,USB Cable,Accessories,3,7.34,22.02,East,UPI,Customer_243,2023-10-24
+1984,Printer,Electronics,2,299.89,599.78,West,UPI,Customer_58,2024-05-05
+1985,Laptop,Electronics,2,1290.71,2581.42,North,UPI,Customer_13,2024-02-16
+1986,Printer,Electronics,2,211.49,422.98,North,UPI,Customer_29,2024-09-14
+1987,Monitor,Electronics,5,334.25,1671.25,East,Debit Card,Customer_12,2023-03-27
+1988,Power Bank,Accessories,4,60.62,242.48,North,Net Banking,Customer_202,2023-07-19
+1989,USB Cable,Accessories,3,14.05,42.15,North,UPI,Customer_204,2023-06-01
+1990,Tablet,Electronics,3,470.28,1410.84,North,UPI,Customer_177,2023-12-26
+1991,Headphones,Electronics,4,178.63,714.52,North,Debit Card,Customer_228,2024-03-01
+1992,USB Cable,Accessories,3,7.46,22.38,West,Cash,Customer_72,2024-08-24
+1993,Printer,Electronics,1,135.91,135.91,East,Cash,Customer_269,2023-12-10
+1994,Mouse,Accessories,5,32.68,163.4,North,Credit Card,Customer_210,2024-10-16
+1995,Headphones,Electronics,4,59.73,238.92,West,Net Banking,Customer_71,2023-07-24
+1996,Keyboard,Accessories,4,43.16,172.64,West,Credit Card,Customer_155,2024-08-22
+1997,Headphones,Electronics,4,125.08,500.32,West,Debit Card,Customer_14,2023-01-03
+1998,Keyboard,Accessories,3,44.01,132.03,West,Credit Card,Customer_148,2024-03-03
+1999,Keyboard,Accessories,4,92.54,370.16,South,Credit Card,Customer_62,2023-10-11
+2000,USB Cable,Accessories,1,13.98,13.98,East,Net Banking,Customer_247,2024-08-02
